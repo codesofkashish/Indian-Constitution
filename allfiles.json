@@ -1,0 +1,2612 @@
+[
+    {
+        "number": "Article 1",
+        "name": "Name and territory of the Union",
+        "description": "Article 1 declares that India, also known as Bharat, shall be a Union of States. This emphasizes the indestructible nature of the Union, meaning no state has the right to secede. It also specifies that the territory of India includes: (a) the territories of the States, (b) Union Territories, and (c) any territories that may be acquired by the Government of India."
+    },
+    {
+        "number": "Article 2",
+        "name": "Admission or establishment of new States",
+        "description": "Article 2 empowers Parliament to admit into the Union, or establish, new States on such terms and conditions as it thinks fit. This provides flexibility for the Union to incorporate new territories or political units, whether by political agreement, integration, or acquisition, and grant them full statehood under conditions set by Parliament."
+    },
+    {
+        "number": "Article 3",
+        "name": "Formation of new States and alteration of areas, boundaries or names of existing States",
+        "description": "Article 3 authorizes Parliament to create new States, or change the area, boundaries, or names of existing States. Before introducing such a Bill, the President must refer it to the Legislature of the affected State for its views within a specified period. However, Parliament is **not bound** to accept the States opinion. This Article ensures national flexibility for reorganizing States to address linguistic, administrative, or political considerations."
+    },
+    {
+        "number": "Article 4",
+        "name": "Laws made under Articles 2 and 3 to provide for amendment of the First and Fourth Schedules and supplemental, incidental and consequential matters",
+        "description": "Article 4 states that any law made under Articles 2 or 3 may amend the First Schedule (which lists States and Union Territories) and the Fourth Schedule (allocation of Rajya Sabha seats). Such amendments do **not** count as Constitutional Amendments under Article 368. This means Parliament can reorganize the territory of India through a normal legislative process without needing the more rigid constitutional amendment procedure."
+    },
+    {
+        "number": "Article 5",
+        "name": "Citizenship at the commencement of the Constitution",
+        "description": "Article 5 grants Indian citizenship at the commencement of the Constitution to anyone domiciled in India who was born in India, had parents born in India, or had been ordinarily resident in India for at least five years immediately before January 26, 1950."
+    },
+    {
+        "number": "Article 6",
+        "name": "Rights of citizenship of certain persons who migrated from Pakistan to India",
+        "description": "People who migrated from Pakistan to India before July 19, 1948, are granted citizenship if they or their parents were born in India. Those who came after that date must register themselves to obtain citizenship. This Article addresses the migration that occurred during Partition."
+    },
+    {
+        "number": "Article 7",
+        "name": "Rights of citizenship of certain migrants to Pakistan",
+        "description": "Individuals who migrated to Pakistan after March 1, 1947, cease to be Indian citizens. However, those who later return to India under a permit of resettlement or permanent return can regain Indian citizenship. This provision distinguishes between temporary visits and permanent migration."
+    },
+    {
+        "number": "Article 8",
+        "name": "Rights of citizenship of persons of Indian origin residing outside India",
+        "description": "People of Indian origin living outside India—who themselves or whose parents or grandparents were born in India—are entitled to citizenship if they register at an Indian diplomatic or consular office. This offers citizenship rights to the Indian diaspora."
+    },
+    {
+        "number": "Article 9",
+        "name": "Persons voluntarily acquiring citizenship of a foreign State not to be citizens",
+        "description": "Any person who voluntarily acquires citizenship of a foreign country is not an Indian citizen. This establishes the principle that India does not permit dual citizenship in terms of political nationality."
+    },
+    {
+        "number": "Article 10",
+        "name": "Continuance of the rights of citizenship",
+        "description": "Every citizen of India retains citizenship rights subject to any laws made by Parliament. This Article ensures continuity while allowing Parliament to regulate citizenship through legislation, such as the Citizenship Act."
+    },
+    {
+        "number": "Article 11",
+        "name": "Parliament to regulate the right of citizenship by law",
+        "description": "Parliament has the power to make laws regarding acquisition, termination, and other aspects of citizenship. This Article grants Parliament full legislative authority to define citizenship rules beyond the initial constitutional provisions."
+    },
+    {
+        "number": "Article 12",
+        "name": "Definition of the State",
+        "description": "Defines 'State' to include the Government, Parliament, State Legislatures, local authorities, and government-controlled bodies for enforcement of fundamental-rights."
+    },
+    {
+        "number": "Article 13",
+        "name": "Laws inconsistent with or in derogation of fundamental-rights",
+        "description": "Any law violating fundamental-rights is void. Future laws must also comply with fundamental-rights."
+    },
+    {
+        "number": "Article 14",
+        "name": "Right to Equality",
+        "description": "Guarantees equality before the law and equal protection of the laws within India."
+    },
+    {
+        "number": "Article 15",
+        "name": "Prohibition of discrimination",
+        "description": "Prohibits discrimination on religion, race, caste, sex, or place of birth. Permits affirmative action for women, children, backward classes, and SC/STs."
+    },
+    {
+        "number": "Article 16",
+        "name": "Equality of opportunity in public employment",
+        "description": "Ensures equal opportunity in state employment. Allows reservations for backward classes, SC/STs, and economically weaker sections."
+    },
+    {
+        "number": "Article 17",
+        "name": "Abolition of Untouchability",
+        "description": "Prohibits untouchability in any form. Enforcement is punishable by law."
+    },
+    {
+        "number": "Article 18",
+        "name": "Abolition of titles",
+        "description": "Abolishes titles except military or academic distinctions. Prohibits citizens from accepting foreign titles."
+    },
+    {
+        "number": "Article 19",
+        "name": "Protection of certain freedoms,right to speech,right to expression",
+        "description": "Guarantees six freedoms: speech and expression, assembly, association, movement, residence, and profession/occupation. Subject to reasonable restrictions."
+    },
+    {
+        "number": "Article 20",
+        "name": "Protection in respect of conviction for offences",
+        "description": "Provides protections against ex post facto laws, double jeopardy, and self-incrimination."
+    },
+    {
+        "number": "Article 21",
+        "name": "Right to life and personal liberty",
+        "description": "No person shall be deprived of life or personal liberty except according to procedure established by law. Expanded to include dignity, privacy, livelihood, clean environment, etc."
+    },
+    {
+        "number": "Article 21A",
+        "name": "Right to education",
+        "description": "State must provide free and compulsory education for children aged 6–14 years."
+    },
+    {
+        "number": "Article 22",
+        "name": "Protection against arrest and detention",
+        "description": "Provides safeguards such as right to be informed of grounds of arrest, consult a lawyer, and be produced before a magistrate. Contains provisions for preventive detention."
+    },
+    {
+        "number": "Article 23",
+        "name": "Prohibition of human trafficking and forced labor",
+        "description": "Prohibits trafficking, begar, and forced labor. Violations are punishable."
+    },
+    {
+        "number": "Article 24",
+        "name": "Prohibition of child labor",
+        "description": "Prohibits employment of children below 14 years in factories, mines, and hazardous occupations."
+    },
+    {
+        "number": "Article 25",
+        "name": "Freedom of conscience and religion",
+        "description": "All persons are free to profess, practice, and propagate religion, subject to public order, morality, and health."
+    },
+    {
+        "number": "Article 26",
+        "name": "Freedom to manage religious affairs",
+        "description": "Religious denominations may establish institutions, manage affairs, own property, and administer them."
+    },
+    {
+        "number": "Article 27",
+        "name": "Freedom from paying taxes for promotion of any particular religion",
+        "description": "No person shall be compelled to pay taxes for promotion or maintenance of a specific religion."
+    },
+    {
+        "number": "Article 28",
+        "name": "Freedom as to attendance at religious instruction",
+        "description": "No religious instruction to be provided in fully government-funded institutions. Permitted in institutions administered by religious bodies."
+    },
+    {
+        "number": "Article 29",
+        "name": "Protection of minorities’ cultural and educational rights",
+        "description": "Protects interests of cultural, linguistic, and religious minorities."
+    },
+    {
+        "number": "Article 30",
+        "name": "Right of minorities to establish educational institutions",
+        "description": "Minorities may establish and administer educational institutions. State cannot discriminate in granting aid."
+    },
+    {
+        "number": "Article 31",
+        "name": "Compulsory acquisition of property (Repealed)",
+        "description": "Originally protected property rights; repealed by the 44th Amendment. Property rights now under Article 300A."
+    },
+    {
+        "number": "Article 32",
+        "name": "Right to Constitutional Remedies",
+        "description": "Allows individuals to move the Supreme Court for enforcement of fundamental-rights. Empowers the Court to issue writs like habeas corpus, mandamus, prohibition, certiorari, and quo warranto."
+    },
+    {
+        "number": "Article 33",
+        "name": "Power of Parliament to modify fundamental-rights for armed forces",
+        "description": "Parliament may restrict fundamental-rights of armed forces, police, intelligence agencies for discipline and security."
+    },
+    {
+        "number": "Article 34",
+        "name": "Restriction on rights during martial law",
+        "description": "Allows Parliament to indemnify government actions during martial law."
+    },
+    {
+        "number": "Article 35",
+        "name": "Legislation to give effect to fundamental-rights",
+        "description": "Parliament has exclusive power to create laws related to certain fundamental-rights, such as preventive detention, abolition of untouchability, and human trafficking."
+    },
+    {
+        "number": "Article 36",
+        "name": "Definition",
+        "description": "Defines 'State' for Part IV as the same meaning assigned in Article 12 for fundamental-rights. This includes the Government, Parliament, State Legislatures, local bodies, and government-controlled authorities."
+    },
+    {
+        "number": "Article 37",
+        "name": "Application of the principles",
+        "description": "Declares that Directive Principles are fundamental to the governance of the country and it is the duty of the State to apply these principles in making laws. The provisions are not enforceable in courts but are nonetheless essential for achieving social and economic democracy."
+    },
+    {
+        "number": "Article 38",
+        "name": "State to secure a social order for the promotion of welfare of the people",
+        "description": "Directs the State to promote the welfare of the people by securing a social order based on justice—social, economic, and political. After the 44th Amendment, the State must also minimize inequalities in income, status, facilities, and opportunities."
+    },
+    {
+        "number": "Article 39",
+        "name": "Certain principles of policy to be followed by the State",
+        "description": "The State must direct its policy toward ensuring: (a) adequate means of livelihood for all citizens; (b) equitable distribution of resources; (c) prevention of wealth concentration; (d) equal pay for equal work; (e) protection of workers, children, and youth; and (f) opportunities for healthy development of children."
+    },
+    {
+        "number": "Article 39A",
+        "name": "Equal justice and free legal aid",
+        "description": "Directs the State to ensure justice is not denied to any citizen due to economic or other disadvantages. Mandates free legal aid and establishment of a justice delivery system promoting equal opportunity."
+    },
+    {
+        "number": "Article 40",
+        "name": "Organisation of village panchayats",
+        "description": "The State shall take steps to organize village panchayats and endow them with necessary powers and authority to function as self-governing units."
+    },
+    {
+        "number": "Article 41",
+        "name": "Right to work, to education, and to public assistance",
+        "description": "Directs the State to provide the right to work, education, and public assistance in cases of unemployment, old age, sickness, and disability, subject to economic capacity."
+    },
+    {
+        "number": "Article 42",
+        "name": "Provision for just and humane working conditions",
+        "description": "The State shall provide humane working conditions and maternity relief."
+    },
+    {
+        "number": "Article 43",
+        "name": "Living wage for workers",
+        "description": "Directs the State to secure a living wage, decent standard of life, and improve conditions for workers. Also promotes cottage industries in rural areas."
+    },
+    {
+        "number": "Article 43A",
+        "name": "Participation of workers in management",
+        "description": "Inserted by the 42nd Amendment, it requires the State to secure worker participation in management of industries."
+    },
+    {
+        "number": "Article 43B",
+        "name": "Promotion of cooperatives",
+        "description": "Inserted by the 97th Amendment, it directs the State to promote voluntary formation, autonomous functioning, and democratic control of cooperative societies."
+    },
+    {
+        "number": "Article 44",
+        "name": "Uniform Civil Code",
+        "description": "The State shall endeavor to secure a Uniform Civil Code for all citizens throughout India to promote national integration and equality."
+    },
+    {
+        "number": "Article 45",
+        "name": "Early childhood care and education",
+        "description": "The State shall provide early childhood care and education for all children until they complete the age of six years. Modified by the 86th Amendment to align with the Right to Education."
+    },
+    {
+        "number": "Article 46",
+        "name": "Promotion of educational and economic interests of SCs, STs, and weaker sections",
+        "description": "Directs the State to protect the educational and economic interests of Scheduled Castes, Scheduled Tribes, and weaker sections, ensuring freedom from social injustice and exploitation."
+    },
+    {
+        "number": "Article 47",
+        "name": "Duty of the State to improve nutrition and public health",
+        "description": "The State must raise the level of nutrition, standard of living, and public health, and prohibit the use of intoxicating drinks and harmful drugs except for medicinal purposes."
+    },
+    {
+        "number": "Article 48",
+        "name": "Organisation of agriculture and animal husbandry",
+        "description": "Directs the State to modernize agriculture, preserve and improve animal breeds, and prohibit the slaughter of cows and cattle where possible."
+    },
+    {
+        "number": "Article 48A",
+        "name": "Protection and improvement of environment",
+        "description": "Inserted by the 42nd Amendment, it mandates the State to protect forests and wildlife and improve the environment."
+    },
+    {
+        "number": "Article 49",
+        "name": "Protection of monuments and national heritage",
+        "description": "The State shall protect monuments, places, and objects of artistic or historic interest."
+    },
+    {
+        "number": "Article 50",
+        "name": "Separation of judiciary from executive",
+        "description": "Directs the State to separate the judiciary from the executive in public services to ensure independence of the judiciary."
+    },
+    {
+        "number": "Article 51",
+        "name": "Promotion of international peace and security",
+        "description": "The State shall promote international peace, respect international law, maintain just relations between nations, and encourage settlement of disputes through arbitration."
+    },
+    {
+        "number": "Article 51A",
+        "name": "Fundamental Duties",
+        "description": [
+            "Article 51A lists the Fundamental Duties of every citizen of India. These duties were added by the 42nd Constitutional Amendment (1976) based on the recommendations of the Swaran Singh Committee. They serve as moral obligations promoting responsible citizenship and national unity.",
+            "To abide by the Constitution and respect its ideals and institutions, the National Flag, and the National Anthem.",
+            "To cherish and follow the noble ideals that inspired the national struggle for freedom.",
+            "To uphold and protect the sovereignty, unity, and integrity of India.",
+            "To defend the country and render national service when called upon to do so.",
+            "To promote harmony and the spirit of common brotherhood among all people of India and to renounce practices derogatory to the dignity of women.",
+            "To value and preserve the rich heritage of India's composite culture.",
+            "To protect and improve the natural environment including forests, lakes, rivers, wildlife, and to have compassion for living creatures.",
+            "To develop scientific temper, humanism, and the spirit of inquiry and reform.",
+            "To safeguard public property and abjure violence.",
+            "To strive toward excellence in all spheres of individual and collective activity.",
+            "For parents or guardians to provide opportunities for education to their child or ward between the ages of six and fourteen years."
+        ]
+    },
+    {
+        "number": "Article 52",
+        "name": "The President of India",
+        "description": "Establishes the office of the President as the head of the Union Executive."
+    },
+    {
+        "number": "Article 53",
+        "name": "Executive Power of the Union",
+        "description": "Vests the executive power of the Union in the President, exercisable directly or through subordinate officers."
+    },
+    {
+        "number": "Article 54",
+        "name": "Election of President",
+        "description": "The President is elected by an electoral college consisting of elected MPs and elected MLAs of the states."
+    },
+    {
+        "number": "Article 55",
+        "name": "Manner of Election of President",
+        "description": "Provides proportional representation by means of single transferable vote to ensure uniformity among states."
+    },
+    {
+        "number": "Article 56",
+        "name": "Term of Office of President",
+        "description": "The President holds office for five years and may resign earlier; removal is done by impeachment."
+    },
+    {
+        "number": "Article 57",
+        "name": "Eligibility for Re-Election",
+        "description": "Allows the President to be re-elected for any number of terms."
+    },
+    {
+        "number": "Article 58",
+        "name": "Qualifications for Presidency",
+        "description": "Must be a citizen of India, at least 35 years old, and qualified to be elected as a Lok Sabha member."
+    },
+    {
+        "number": "Article 59",
+        "name": "Conditions of President’s Office",
+        "description": "President cannot hold any office of profit and is entitled to official residence and emoluments."
+    },
+    {
+        "number": "Article 60",
+        "name": "Oath or Affirmation of President",
+        "description": "President swears to preserve, protect, and defend the Constitution."
+    },
+    {
+        "number": "Article 61",
+        "name": "Impeachment of President",
+        "description": "Details the procedure for impeachment for violation of the Constitution; requires special majority."
+    },
+    {
+        "number": "Article 62",
+        "name": "Time of Election to Fill Vacancy",
+        "description": "Election to fill a vacancy in the office of President must be held within six months."
+    },
+    {
+        "number": "Article 63",
+        "name": "The Vice-President of India",
+        "description": "Provides for the office of the Vice-President."
+    },
+    {
+        "number": "Article 64",
+        "name": "Vice-President as Chairman of Rajya Sabha",
+        "description": "The Vice-President serves as the ex-officio Chairman of the Council of States."
+    },
+    {
+        "number": "Article 65",
+        "name": "Vice-President to Act as President",
+        "description": "Vice-President discharges the functions of President during vacancy or absence."
+    },
+    {
+        "number": "Article 66",
+        "name": "Election of Vice-President",
+        "description": "Vice-President is elected by members of both Houses of Parliament."
+    },
+    {
+        "number": "Article 67",
+        "name": "Term of Office of Vice-President",
+        "description": "Holds office for five years; can resign or be removed."
+    },
+    {
+        "number": "Article 68",
+        "name": "Time of Election to Fill Vacancy of Vice-President",
+        "description": "Election must be held to fill vacancy before expiry or soon after vacancy occurs."
+    },
+    {
+        "number": "Article 69",
+        "name": "Oath or Affirmation of Vice-President",
+        "description": "Administered by the President or a designated person."
+    },
+    {
+        "number": "Article 70",
+        "name": "Discharge of President’s Functions in Contingencies",
+        "description": "Parliament may provide additional rules for discharging President's functions."
+    },
+    {
+        "number": "Article 71",
+        "name": "Matters Relating to Election of President and Vice-President",
+        "description": "Election disputes are decided by the Supreme Court."
+    },
+    {
+        "number": "Article 72",
+        "name": "Pardoning Power of President",
+        "description": "Allows granting of pardon, reprieve, respite, remission, or commutation of sentences."
+    },
+    {
+        "number": "Article 73",
+        "name": "Extent of Executive Power of the Union",
+        "description": "Union executive power extends to matters on which Parliament may legislate."
+    },
+    {
+        "number": "Article 74",
+        "name": "Council of Ministers to Aid and Advise President",
+        "description": "President acts on the aid and advice of the Council of Ministers; advice is binding."
+    },
+    {
+        "number": "Article 75",
+        "name": "Provisions as to Ministers",
+        "description": "Prime Minister appointed by President; Council collectively responsible to Lok Sabha."
+    },
+    {
+        "number": "Article 76",
+        "name": "Attorney-General for India",
+        "description": "Chief legal advisor to the Central Government; may participate in Parliament without voting rights."
+    },
+    {
+        "number": "Article 77",
+        "name": "Conduct of Government Business",
+        "description": "President makes rules for allocation and transaction of government business."
+    },
+    {
+        "number": "Article 78",
+        "name": "Duties of Prime Minister",
+        "description": "PM must keep the President informed of government decisions and legislative proposals."
+    },
+    {
+        "number": "Article 79",
+        "name": "Constitution of Parliament",
+        "description": "Parliament consists of the President and two Houses: the Council of States (Rajya Sabha) and the House of the People (Lok Sabha)."
+    },
+    {
+        "number": "Article 80",
+        "name": "Composition of Rajya Sabha",
+        "description": "Rajya Sabha includes representatives of states and union territories and nominated members; total membership is prescribed by law."
+    },
+    {
+        "number": "Article 81",
+        "name": "Composition of Lok Sabha",
+        "description": "Lok Sabha consists of representatives directly elected by citizens; seats allocated to states and union territories as per population."
+    },
+    {
+        "number": "Article 82",
+        "name": "Readjustment after Census",
+        "description": "Parliament must readjust the allocation of seats in Lok Sabha after each census."
+    },
+    {
+        "number": "Article 83",
+        "name": "Duration of Houses",
+        "description": "Lok Sabha has a term of five years unless dissolved earlier; Rajya Sabha is permanent, with one-third of members retiring every two years."
+    },
+    {
+        "number": "Article 84",
+        "name": "Qualifications for Membership",
+        "description": "Specifies age and citizenship requirements for Lok Sabha and Rajya Sabha membership."
+    },
+    {
+        "number": "Article 85",
+        "name": "Sessions of Parliament",
+        "description": "President summons, prorogues, and dissolves Parliament; Parliament must meet at least twice a year, with a 6-month gap maximum between sessions."
+    },
+    {
+        "number": "Article 86",
+        "name": "Right of President to Address Parliament",
+        "description": "President may address either or both Houses and send messages requiring consideration."
+    },
+    {
+        "number": "Article 87",
+        "name": "Special Address by President",
+        "description": "President addresses Parliament at the start of the first session each year."
+    },
+    {
+        "number": "Article 88",
+        "name": "Rights of Ministers and Attorney-General",
+        "description": "They may participate in House proceedings but cannot vote unless they are members."
+    },
+    {
+        "number": "Article 89",
+        "name": "Chairman and Deputy Chairman of Rajya Sabha",
+        "description": "Vice-President is ex-officio Chairman; Deputy Chairman elected by members of Rajya Sabha."
+    },
+    {
+        "number": "Article 90",
+        "name": "Powers of Deputy Chairman",
+        "description": "Deputy Chairman presides in absence of Chairman; exercises all powers of Chairman during such time."
+    },
+    {
+        "number": "Article 91",
+        "name": "Vacation, Resignation, Removal of Deputy Chairman",
+        "description": "Deputy Chairman may resign, vacate, or be removed by Rajya Sabha members."
+    },
+    {
+        "number": "Article 92",
+        "name": "Presiding in Rajya Sabha",
+        "description": "If both Chairman and Deputy Chairman absent, members elect a temporary presiding officer."
+    },
+    {
+        "number": "Article 93",
+        "name": "Speaker and Deputy Speaker of Lok Sabha",
+        "description": "Speaker and Deputy Speaker elected by members of Lok Sabha."
+    },
+    {
+        "number": "Article 94",
+        "name": "Vacation, Resignation, Removal of Speaker/Deputy Speaker",
+        "description": "They may resign or be removed by a resolution passed by majority of members."
+    },
+    {
+        "number": "Article 95",
+        "name": "Presiding in Lok Sabha",
+        "description": "In absence of Speaker and Deputy, members elect a member to preside temporarily."
+    },
+    {
+        "number": "Article 96",
+        "name": "Voting in Case of Equality",
+        "description": "Presiding officer has a casting vote in case of equality of votes."
+    },
+    {
+        "number": "Article 97",
+        "name": "Salaries and Allowances of Presiding Officers",
+        "description": "Prescribes salary and allowances of Speaker, Deputy Speaker, Chairman, Deputy Chairman."
+    },
+    {
+        "number": "Article 98",
+        "name": "Secretariat of Parliament",
+        "description": "Both Houses have separate secretariats headed by Secretaries appointed by the President."
+    },
+    {
+        "number": "Article 99",
+        "name": "Oath or Affirmation by Members",
+        "description": "Members must swear to bear true faith to the Constitution and discharge duties faithfully."
+    },
+    {
+        "number": "Article 100",
+        "name": "Voting and Quorum",
+        "description": "Quorum is one-tenth of total members; voting can be by voice or division."
+    },
+    {
+        "number": "Article 101",
+        "name": "Vacation of Seats for Dual Membership",
+        "description": "Members cannot simultaneously be in both Houses; must vacate one seat if elected to both."
+    },
+    {
+        "number": "Article 102",
+        "name": "Disqualifications for Membership",
+        "description": "Members disqualified under Constitution or law; includes holding office of profit, insolvency, etc."
+    },
+    {
+        "number": "Article 103",
+        "name": "Decision on Disqualification",
+        "description": "President decides on disqualification based on Election Commission advice."
+    },
+    {
+        "number": "Article 104",
+        "name": "Penalty for Sitting or Voting Illegally",
+        "description": "Member who sits or votes after disqualification is liable to penalty and may forfeit salary."
+    },
+    {
+        "number": "Article 105",
+        "name": "Powers, Privileges, and Immunities of Parliament Members",
+        "description": "Members enjoy freedom of speech, immunity from court proceedings for parliamentary actions, and other privileges."
+    },
+    {
+        "number": "Article 106",
+        "name": "Salaries of Members",
+        "description": "Parliament decides salary, allowances, and pensions of members."
+    },
+    {
+        "number": "Article 107",
+        "name": "Introduction and Passing of Bills",
+        "description": "Defines the procedure for introduction and passage of bills in Parliament."
+    },
+    {
+        "number": "Article 108",
+        "name": "Joint Sitting of Parliament",
+        "description": "Provides procedure for joint sitting to resolve deadlocks between Houses."
+    },
+    {
+        "number": "Article 109",
+        "name": "Special Procedure for Money Bills",
+        "description": "Money Bills must be introduced in Lok Sabha; Rajya Sabha cannot amend or reject, only suggest amendments."
+    },
+    {
+        "number": "Article 110",
+        "name": "Definition of Money Bill",
+        "description": "Defines a Money Bill as one dealing with taxation, borrowing, appropriation of funds, and expenditure of the Union."
+    },
+    {
+        "number": "Article 111",
+        "name": "President's Assent to Bills",
+        "description": "Bills passed by Parliament become law only with President's assent; President can withhold, return (except Money Bill), or direct reconsideration."
+    },
+    {
+        "number": "Article 112",
+        "name": "Annual Financial Statement",
+        "description": "The Budget: annual statement of estimated receipts and expenditure of the Union."
+    },
+    {
+        "number": "Article 113",
+        "name": "Procedure for Estimates",
+        "description": "Procedure for considering demands for grants and supplementary estimates."
+    },
+    {
+        "number": "Article 114",
+        "name": "Appropriation Bills",
+        "description": "Provides procedure for Parliament to authorize government expenditure."
+    },
+    {
+        "number": "Article 115",
+        "name": "Supplementary, Additional, and Excess Grants",
+        "description": "Parliament may authorize expenditure beyond original appropriation."
+    },
+    {
+        "number": "Article 116",
+        "name": "Votes on Account, Votes of Credit, Exceptional Grants",
+        "description": "Procedure for granting temporary finances when Budget not passed."
+    },
+    {
+        "number": "Article 117",
+        "name": "Special Provisions for Financial Bills",
+        "description": "Bills affecting taxes, expenditure, or borrowing must be Money Bills or originate in Lok Sabha."
+    },
+    {
+        "number": "Article 118",
+        "name": "Rules of Procedure",
+        "description": "President may prescribe rules of procedure; Houses may regulate internal business."
+    },
+    {
+        "number": "Article 119",
+        "name": "Legislation by Houses in Financial Matters",
+        "description": "Special provisions for legislative procedure for money matters."
+    },
+    {
+        "number": "Article 120",
+        "name": "Language of Parliamentary Proceedings",
+        "description": "English and Hindi used; English documents recognized for legal purposes."
+    },
+    {
+        "number": "Article 121",
+        "name": "Bar on Judicial Interference",
+        "description": "Courts cannot inquire into proceedings of Parliament except in impeachment cases."
+    },
+    {
+        "number": "Article 122",
+        "name": "Courts not to Question Parliamentary Proceedings",
+        "description": "Debates, proceedings, and votes cannot be questioned in any court."
+    },
+    {
+        "number": "Article 123",
+        "name": "Ordinance-making power of President",
+        "description": "President may promulgate ordinances when either House of Parliament is not in session. Ordinances have the force of law but must be approved by Parliament within six weeks of reassembly."
+    },
+    {
+        "number": "Article 124",
+        "name": "Establishment and Constitution of Supreme Court",
+        "description": "Establishes the Supreme Court of India; outlines appointment, tenure, and qualifications of judges."
+    },
+    {
+        "number": "Article 125",
+        "name": "Salaries of Supreme Court Judges",
+        "description": "Fixes salaries and allowances for the Chief Justice and other judges of the Supreme Court."
+    },
+    {
+        "number": "Article 126",
+        "name": "Appointment of Acting Chief Justice",
+        "description": "President may appoint an acting Chief Justice when the office of Chief Justice is vacant or the incumbent is unable to perform duties."
+    },
+    {
+        "number": "Article 127",
+        "name": "Ad hoc Judges",
+        "description": "Supreme Court may appoint ad hoc judges for temporary periods to deal with increased workload."
+    },
+    {
+        "number": "Article 128",
+        "name": "Attendance of Retired Judges",
+        "description": "Retired Supreme Court judges may be requested to sit and act temporarily as judges."
+    },
+    {
+        "number": "Article 129",
+        "name": "Supreme Court as Court of Record",
+        "description": "Supreme Court is a court of record with power to punish for contempt."
+    },
+    {
+        "number": "Article 130",
+        "name": "Seat of Supreme Court",
+        "description": "Supreme Court shall sit at New Delhi or another place as Parliament may by law provide."
+    },
+    {
+        "number": "Article 131",
+        "name": "Original Jurisdiction",
+        "description": "Supreme Court has original jurisdiction in disputes between the Union and states or among states."
+    },
+    {
+        "number": "Article 132",
+        "name": "Appellate Jurisdiction in Constitutional Cases",
+        "description": "Supreme Court can hear appeals against judgments of High Courts in constitutional matters."
+    },
+    {
+        "number": "Article 133",
+        "name": "Appellate Jurisdiction in Civil Matters",
+        "description": "Supreme Court hears appeals in civil matters involving substantial questions of law."
+    },
+    {
+        "number": "Article 134",
+        "name": "Appellate Jurisdiction in Criminal Matters",
+        "description": "Supreme Court hears appeals in criminal cases against High Court judgments."
+    },
+    {
+        "number": "Article 134A",
+        "name": "Certificate for Appeal",
+        "description": "High Court may certify certain cases for appeal to Supreme Court."
+    },
+    {
+        "number": "Article 135",
+        "name": "Federal Court Jurisdiction Transferred",
+        "description": "Jurisdiction previously exercised by the Federal Court transferred to Supreme Court."
+    },
+    {
+        "number": "Article 136",
+        "name": "Special Leave to Appeal",
+        "description": "Supreme Court may grant special leave to appeal from any judgment or order."
+    },
+    {
+        "number": "Article 137",
+        "name": "Review of Judgments or Orders",
+        "description": "Supreme Court may review its own judgments or orders."
+    },
+    {
+        "number": "Article 138",
+        "name": "Enlargement of Supreme Court Jurisdiction",
+        "description": "Parliament may enlarge Supreme Court jurisdiction by law."
+    },
+    {
+        "number": "Article 139",
+        "name": "Power to Issue Writs",
+        "description": "Supreme Court may issue writs for enforcement of fundamental-rights or for other purposes."
+    },
+    {
+        "number": "Article 139A",
+        "name": "Transfer of Certain Cases",
+        "description": "Supreme Court may transfer cases from one High Court to another or to itself."
+    },
+    {
+        "number": "Article 140",
+        "name": "Ancillary Powers of Supreme Court",
+        "description": "Supreme Court has powers to make rules regulating practice and procedure."
+    },
+    {
+        "number": "Article 141",
+        "name": "Binding Nature of Supreme Court Decisions",
+        "description": "Law declared by Supreme Court is binding on all courts within India."
+    },
+    {
+        "number": "Article 142",
+        "name": "Enforcement of Supreme Court Decrees and Orders",
+        "description": "Supreme Court can pass any order necessary for doing complete justice in any matter before it."
+    },
+    {
+        "number": "Article 143",
+        "name": "Advisory Jurisdiction",
+        "description": "President may refer questions of law or fact to Supreme Court for advisory opinion."
+    },
+    {
+        "number": "Article 144",
+        "name": "Civil and Judicial Authorities to Act in Aid",
+        "description": "All authorities must aid the Supreme Court in performing its functions."
+    },
+    {
+        "number": "Article 145",
+        "name": "Rules of Court; Benches",
+        "description": "Parliament defines rules for Supreme Court procedures and constitution of benches."
+    },
+    {
+        "number": "Article 146",
+        "name": "Officers and Servants of Supreme Court",
+        "description": "Parliament may prescribe number of officers and servants and conditions of service."
+    },
+    {
+        "number": "Article 147",
+        "name": "Interpretation",
+        "description": "Defines interpretation rules for Part V provisions related to the Supreme Court."
+    },
+    {
+        "number": "Article 148",
+        "name": "Comptroller and Auditor-General of India",
+        "description": "Establishes the office of CAG; defines appointment, term, and removal procedure."
+    },
+    {
+        "number": "Article 149",
+        "name": "Duties and Powers of CAG",
+        "description": "CAG audits accounts of the Union and States; prepares reports for submission to President or Governors."
+    },
+    {
+        "number": "Article 150",
+        "name": "Form of Accounts of Union and States",
+        "description": "Parliament determines form of accounts for Union and State governments."
+    },
+    {
+        "number": "Article 151",
+        "name": "Audit Reports",
+        "description": "CAG submits audit reports to President for Union and to Governors for States; laid before Parliament or State Legislatures."
+    },
+    {
+        "number": "Article 152",
+        "name": "The States",
+        "description": "The territory of India is divided into states and union territories as per the First Schedule."
+    },
+    {
+        "number": "Article 153",
+        "name": "Governor of States",
+        "description": "There shall be a Governor for each state; he is the constitutional head of the state."
+    },
+    {
+        "number": "Article 154",
+        "name": "Executive Power of the State",
+        "description": "Executive power of the state is vested in the Governor; exercised directly or through subordinate officers."
+    },
+    {
+        "number": "Article 155",
+        "name": "Appointment of Governors",
+        "description": "Governors are appointed by the President and hold office during his pleasure."
+    },
+    {
+        "number": "Article 156",
+        "name": "Term of Office of Governor",
+        "description": "Governor holds office for five years but may resign or be removed earlier."
+    },
+    {
+        "number": "Article 157",
+        "name": "Qualifications for Appointment as Governor",
+        "description": "Must be a citizen of India, at least 35 years old, and not hold any office of profit."
+    },
+    {
+        "number": "Article 158",
+        "name": "Conditions of Governors Office",
+        "description": "Governors emoluments and privileges are determined by the President; cannot hold office of profit."
+    },
+    {
+        "number": "Article 159",
+        "name": "Oath or Affirmation by Governor",
+        "description": "Governor swears to preserve, protect, and defend the Constitution and law of India."
+    },
+    {
+        "number": "Article 160",
+        "name": "Discharge of Functions in Certain Contingencies",
+        "description": "President may make rules for discharge of Governors functions in contingencies."
+    },
+    {
+        "number": "Article 161",
+        "name": "Pardoning Powers of Governor",
+        "description": "Governor may grant pardons, reprieves, respites, or remissions for offenses against state law."
+    },
+    {
+        "number": "Article 162",
+        "name": "Extent of Executive Power of State",
+        "description": "Executive power of state extends to matters on which state legislature may make laws."
+    },
+    {
+        "number": "Article 163",
+        "name": "Council of Ministers to Aid and Advise Governor",
+        "description": "Governor acts on aid and advice of Council of Ministers; ministers are responsible to the Legislative Assembly."
+    },
+    {
+        "number": "Article 164",
+        "name": "Other Provisions as to Ministers",
+        "description": "Chief Minister appointed by Governor; other ministers hold office during Governor’s pleasure but are collectively responsible to the Assembly."
+    },
+    {
+        "number": "Article 165",
+        "name": "Advocate-General for the State",
+        "description": "Legal advisor to state government; rights and duties similar to Attorney-General for Union."
+    },
+    {
+        "number": "Article 166",
+        "name": "Conduct of Business of Government of State",
+        "description": "Governor makes rules for allocation and transaction of business of state government."
+    },
+    {
+        "number": "Article 167",
+        "name": "Duties of Chief Minister",
+        "description": "Chief Minister must communicate all decisions and proposals for legislation to Governor."
+    },
+    {
+        "number": "Article 168",
+        "name": "Legislature of States",
+        "description": "Each state has a Legislative Assembly; some states also have a Legislative Council, as specified in the Constitution."
+    },
+    {
+        "number": "Article 169",
+        "name": "Abolition or Creation of Legislative Councils in States",
+        "description": "Parliament may by law create or abolish Legislative Councils in states with Legislative Assemblies."
+    },
+    {
+        "number": "Article 170",
+        "name": "Composition of Legislative Assembly",
+        "description": "Legislative Assembly consists of representatives directly elected by the people of the state; allocation of seats is determined by population."
+    },
+    {
+        "number": "Article 171",
+        "name": "Composition of Legislative Council",
+        "description": "Legislative Council consists of members elected by Legislative Assembly, local bodies, graduates, teachers, and nominated by Governor."
+    },
+    {
+        "number": "Article 172",
+        "name": "Duration of State Legislatures",
+        "description": "Legislative Assembly has a term of five years; Legislative Council is permanent with one-third members retiring every two years."
+    },
+    {
+        "number": "Article 173",
+        "name": "Qualifications for Membership",
+        "description": "Members of Legislative Assembly and Council must be citizens of India, meet age requirements, and not be disqualified under the law."
+    },
+    {
+        "number": "Article 174",
+        "name": "Sessions of Legislature",
+        "description": "Governor summons, prorogues, and dissolves Legislative Assembly; must meet at least twice a year with a six-month gap maximum."
+    },
+    {
+        "number": "Article 175",
+        "name": "Right of Governor to Address Legislature",
+        "description": "Governor may address either or both Houses and send messages requiring consideration."
+    },
+    {
+        "number": "Article 176",
+        "name": "Presiding Officers of the Legislative Council",
+        "description": "Chairman and Deputy Chairman elected by members of Legislative Council."
+    },
+    {
+        "number": "Article 177",
+        "name": "Presiding Officers of the Legislative Assembly",
+        "description": "Speaker and Deputy Speaker elected by members of Legislative Assembly."
+    },
+    {
+        "number": "Article 178",
+        "name": "Vacation, Resignation, Removal of Speaker and Deputy Speaker",
+        "description": "Speaker or Deputy Speaker may resign or be removed by resolution passed by majority of members."
+    },
+    {
+        "number": "Article 179",
+        "name": "Eligibility for Presiding Office",
+        "description": "Members elected as Speaker/Deputy Speaker or Chairman/Deputy Chairman must be members of the House in question."
+    },
+    {
+        "number": "Article 180",
+        "name": "Duration of Office of Presiding Officers",
+        "description": "Presiding officers hold office until dissolution or for the term of the House, unless they resign or are removed."
+    },
+    {
+        "number": "Article 181",
+        "name": "Speaker or Deputy Speaker Not Subject to Disqualification",
+        "description": "Presiding officer cannot be disqualified while holding office for acts done in performance of duties."
+    },
+    {
+        "number": "Article 182",
+        "name": "Provisions as to Ministers",
+        "description": "Chief Minister and other ministers appointed by Governor hold office during Governor’s pleasure and are responsible to Legislative Assembly."
+    },
+    {
+        "number": "Article 183",
+        "name": "Conduct of Government Business",
+        "description": "Governor makes rules for allocation and transaction of business of state government."
+    },
+    {
+        "number": "Article 184",
+        "name": "Special Powers of High Courts",
+        "description": "High Courts have original jurisdiction and advisory powers for constitutional matters and legal disputes in the state."
+    },
+    {
+        "number": "Article 185",
+        "name": "Judicial Authority of High Courts",
+        "description": "High Courts are courts of record and have jurisdiction as determined by law."
+    },
+    {
+        "number": "Article 186",
+        "name": "Conduct of Legislative Assembly Business",
+        "description": "Rules governing procedure, quorum, and voting are determined by the House."
+    },
+    {
+        "number": "Article 187",
+        "name": "Secretariat of State Legislatures",
+        "description": "Each House has a secretariat headed by a Secretary appointed by Governor."
+    },
+    {
+        "number": "Article 188",
+        "name": "Oath or Affirmation by Members",
+        "description": "Members must swear to bear true faith to Constitution and perform duties faithfully."
+    },
+    {
+        "number": "Article 189",
+        "name": "Voting and Quorum",
+        "description": "Quorum required for conducting business; voting by voice, division, or as per rules of the House."
+    },
+    {
+        "number": "Article 190",
+        "name": "Vacation of Seats for Dual Membership",
+        "description": "Members cannot hold membership in both Houses simultaneously; must vacate one."
+    },
+    {
+        "number": "Article 191",
+        "name": "Disqualifications for Membership",
+        "description": "Members disqualified for office of profit, insolvency, or other reasons specified by law."
+    },
+    {
+        "number": "Article 192",
+        "name": "Decision on Disqualification",
+        "description": "Governor decides on disqualification based on Election Commission advice."
+    },
+    {
+        "number": "Article 193",
+        "name": "Penalty for Sitting or Voting Illegally",
+        "description": "Member who acts after disqualification may forfeit salary and allowances."
+    },
+    {
+        "number": "Article 194",
+        "name": "Powers, Privileges, and Immunities of Members",
+        "description": "Members enjoy freedom of speech, immunity from court proceedings, and other privileges."
+    },
+    {
+        "number": "Article 195",
+        "name": "Salaries of Members",
+        "description": "State legislatures decide salaries, allowances, and pensions of their members."
+    },
+    {
+        "number": "Article 196",
+        "name": "Introduction and Passing of Bills",
+        "description": "Procedure for introducing, debating, and passing bills in state legislatures."
+    },
+    {
+        "number": "Article 197",
+        "name": "Governor's Assent to Bills",
+        "description": "Governor can assent to bills, withhold, return for reconsideration, or reserve for President's consideration."
+    },
+    {
+        "number": "Article 198",
+        "name": "Money Bills",
+        "description": "Money bills must originate in Legislative Assembly; Legislative Council can only recommend amendments."
+    },
+    {
+        "number": "Article 199",
+        "name": "Annual Financial Statement",
+        "description": "State government submits estimated receipts and expenditure to the legislature (Budget)."
+    },
+    {
+        "number": "Article 200",
+        "name": "Appropriation Bills",
+        "description": "Legislature authorizes expenditure from the Consolidated Fund of the state."
+    },
+    {
+        "number": "Article 201",
+        "name": "Supplementary, Additional, and Excess Grants",
+        "description": "Legislature may authorize extra expenditure beyond original appropriations."
+    },
+    {
+        "number": "Article 202",
+        "name": "Votes on Account, Votes of Credit, Exceptional Grants",
+        "description": "Temporary finances for government if budget not passed."
+    },
+    {
+        "number": "Article 203",
+        "name": "Rules of Procedure",
+        "description": "State legislatures may make rules for procedure and conduct of business."
+    },
+    {
+        "number": "Article 204",
+        "name": "Language of Legislative Proceedings",
+        "description": "Legislature may use English or the state official language for proceedings."
+    },
+    {
+        "number": "Article 205",
+        "name": "Courts not to Question Proceedings",
+        "description": "Judicial authorities cannot inquire into proceedings of the legislature."
+    },
+    {
+        "number": "Article 206",
+        "name": "Ordinances by Governor",
+        "description": "Governor may promulgate ordinances when legislature not in session; must be approved within six weeks of reconvening."
+    },
+    {
+        "number": "Article 207",
+        "name": "Special Provisions",
+        "description": "State legislatures follow rules set by Governor and Constitution for financial and other matters."
+    },
+    {
+        "number": "Article 208",
+        "name": "Secretariat",
+        "description": "Each House has a secretariat headed by Secretary appointed by Governor."
+    },
+    {
+        "number": "Article 209",
+        "name": "Oath or Affirmation by Members",
+        "description": "Members swear to uphold Constitution and perform duties faithfully."
+    },
+    {
+        "number": "Article 210",
+        "name": "Voting and Quorum",
+        "description": "Defines quorum and voting methods for state legislatures."
+    },
+    {
+        "number": "Article 211",
+        "name": "Vacation of Seats",
+        "description": "Rules for vacating seats due to resignation, disqualification, or dissolution."
+    },
+    {
+        "number": "Article 212",
+        "name": "Disqualifications",
+        "description": "Members disqualified under law cannot sit or vote in legislature."
+    },
+    {
+        "number": "Article 213",
+        "name": "Ordinances by Governor",
+        "description": "When the state legislature is not in session, the Governor may promulgate ordinances which have the same force as laws passed by the legislature."
+    },
+    {
+        "number": "Article 214",
+        "name": "States to Maintain a Public Service",
+        "description": "States must maintain a public service responsible for executing laws."
+    },
+    {
+        "number": "Article 215",
+        "name": "High Courts for States",
+        "description": "Each state shall have a High Court; Parliament may establish a common High Court for two or more states."
+    },
+    {
+        "number": "Article 216",
+        "name": "Constitution of High Court",
+        "description": "High Courts consist of a Chief Justice and other judges appointed by the President."
+    },
+    {
+        "number": "Article 217",
+        "name": "Appointment and Conditions of Judges of High Court",
+        "description": "Judges of High Court are appointed by President, hold office until 62, and can be removed by impeachment."
+    },
+    {
+        "number": "Article 218",
+        "name": "Additional and Acting Judges",
+        "description": "High Courts may appoint additional or acting judges as necessary."
+    },
+    {
+        "number": "Article 219",
+        "name": "Oath or Affirmation by Judges",
+        "description": "Judges swear to uphold Constitution and faithfully discharge duties."
+    },
+    {
+        "number": "Article 220",
+        "name": "Jurisdiction of High Courts",
+        "description": "High Courts are courts of record and exercise original and appellate jurisdiction."
+    },
+    {
+        "number": "Article 221",
+        "name": "Transfer of Judges",
+        "description": "Supreme Court may transfer a judge from one High Court to another in public interest."
+    },
+    {
+        "number": "Article 222",
+        "name": "Control over Subordinate Courts",
+        "description": "High Courts supervise and control subordinate courts in the state."
+    },
+    {
+        "number": "Article 223",
+        "name": "Power to Authorize Additional Judges",
+        "description": "President may authorize additional judges in High Courts temporarily."
+    },
+    {
+        "number": "Article 224",
+        "name": "Appointment of Acting Judges",
+        "description": "Acting judges may be appointed to handle extra workload."
+    },
+    {
+        "number": "Article 225",
+        "name": "Attendance of Retired Judges",
+        "description": "Retired judges may be requested to act temporarily."
+    },
+    {
+        "number": "Article 226",
+        "name": "Power of High Courts to Issue Writs",
+        "description": "High Courts may issue writs for enforcement of fundamental-rights and for any other purpose."
+    },
+    {
+        "number": "Article 227",
+        "name": "Power of Superintendence over Lower Courts",
+        "description": "High Courts supervise all subordinate courts and tribunals in the state."
+    },
+    {
+        "number": "Article 228",
+        "name": "Constitution of High Courts for Union Territories",
+        "description": "Parliament may establish High Courts for Union Territories and decide their composition and jurisdiction."
+    },
+    {
+        "number": "Article 229",
+        "name": "Appointments of Officers",
+        "description": "Parliament may provide for the appointment and tenure of officers in High Courts for Union Territories."
+    },
+    {
+        "number": "Article 230",
+        "name": "Salaries and Allowances of Judges",
+        "description": "Prescribes salaries and allowances for High Court judges."
+    },
+    {
+        "number": "Article 231",
+        "name": "Comptroller and Auditor-General of India",
+        "description": "CAG audits accounts of states and submits reports to Governor; same as union provisions."
+    },
+    {
+        "number": "Article 232",
+        "name": "Audit Reports",
+        "description": "CAG submits audit reports to Governor; laid before state legislature."
+    },
+    {
+        "number": "Article 233",
+        "name": "Appointment of District Judges",
+        "description": "District judges appointed by Governor in consultation with High Court."
+    },
+    {
+        "number": "Article 234",
+        "name": "Appointment of Additional District Judges",
+        "description": "Governor may appoint additional judges in consultation with High Court."
+    },
+    {
+        "number": "Article 235",
+        "name": "Control over Subordinate Courts",
+        "description": "High Court exercises control over subordinate courts in the state."
+    },
+    {
+        "number": "Article 236",
+        "name": "Special Provisions for Certain States",
+        "description": "Parliament may provide special arrangements for states requiring it."
+    },
+    {
+        "number": "Article 237",
+        "name": "Application of Union Laws to Certain States",
+        "description": "Union laws may extend to certain states with modifications by Parliament."
+    },
+    {
+        "number": "Article 238",
+        "name": "Application of Laws to Part B States",
+        "description": "All laws in force in Part B states immediately before the commencement of the Constitution continue until altered or repealed by Parliament. The President may make regulations for peace, progress, and good government of Part B states."
+    },
+    {
+        "number": "Article 239",
+        "name": "Governors for Union Territories",
+        "description": "President appoints an Administrator for each Union Territory to exercise powers and functions of the Union government in the territory."
+    },
+    {
+        "number": "Article 239A",
+        "name": "Legislature or Council of Ministers for Certain Union Territories",
+        "description": "Parliament may by law create a legislature or council of ministers for a Union Territory to provide for governance and law-making."
+    },
+    {
+        "number": "Article 240",
+        "name": "President's Rule in Union Territories",
+        "description": "President may make regulations for peace, progress, and good government of Union Territories not having a legislature, and may extend or amend laws with suitable adaptations."
+    },
+    {
+        "number": "Article 241",
+        "name": "High Courts for Union Territories",
+        "description": "Parliament may establish High Courts for Union Territories or provide for their jurisdiction by adapting provisions applicable to states."
+    },
+    {
+        "number": "Article 242",
+        "name": "Application of Union Laws",
+        "description": "Laws made by Parliament for Union Territories may include modifications or adaptations to suit specific territories."
+    },
+    {
+        "number": "Article 243",
+        "name": "Definitions",
+        "description": "Defines key terms used in Part IX, including 'Panchayati Raj Institution', 'Gram Sabha', 'Panchayat', and 'State'."
+    },
+    {
+        "number": "Article 243A",
+        "name": "Gram Sabha",
+        "description": "Every village shall have a Gram Sabha consisting of persons registered as voters; it exercises powers and responsibilities as provided by law."
+    },
+    {
+        "number": "Article 243B",
+        "name": "Constitution of Panchayats",
+        "description": "Panchayats shall be constituted at the village, intermediate, and district levels in every state, as specified by law."
+    },
+    {
+        "number": "Article 243C",
+        "name": "Composition of Panchayats",
+        "description": "Panchayats at each level are composed of members elected from territorial constituencies in the state."
+    },
+    {
+        "number": "Article 243D",
+        "name": "Composition of Panchayats at Intermediate and District Levels",
+        "description": "Specifies method of election, composition, and representation for Panchayats at intermediate and district levels."
+    },
+    {
+        "number": "Article 243E",
+        "name": "Elections to the Panchayats",
+        "description": "Elections conducted by State Election Commission; members chosen by direct elections from territorial constituencies."
+    },
+    {
+        "number": "Article 243F",
+        "name": "Duration of Panchayats",
+        "description": "Panchayats have a term of five years; provisions for dissolution and continuation of business are specified."
+    },
+    {
+        "number": "Article 243G",
+        "name": "Powers, Authority, and Responsibilities of Panchayats",
+        "description": "Panchayats have powers to prepare plans and implement schemes for economic development and social justice as assigned by the state legislature."
+    },
+    {
+        "number": "Article 243H",
+        "name": "Power to Impose Taxes",
+        "description": "Panchayats may levy and collect taxes, duties, tolls, and fees for the purpose of performing their functions."
+    },
+    {
+        "number": "Article 243I",
+        "name": "Provisions as to the State Finance Commission",
+        "description": "State Finance Commission recommended by Governor to review financial position and recommend distribution of funds to Panchayats."
+    },
+    {
+        "number": "Article 243J",
+        "name": "Audit of Accounts of Panchayats",
+        "description": "State government audits Panchayat accounts; accounts and audit reports presented to the state legislature."
+    },
+    {
+        "number": "Article 243K",
+        "name": "Elections to the Panchayats",
+        "description": "State Election Commission supervises, directs, and controls elections to Panchayats."
+    },
+    {
+        "number": "Article 243L",
+        "name": "Application of the Provisions to the Union Territories",
+        "description": "Provisions of this Part apply to Union Territories as Parliament may specify by law."
+    },
+    {
+        "number": "Article 243M",
+        "name": "Powers, Authority, and Responsibilities of Panchayats in Union Territories",
+        "description": "Union Territory Panchayats shall have powers and responsibilities similar to those in states, as prescribed by Parliament."
+    },
+    {
+        "number": "Article 243N",
+        "name": "Constitution of Finance Commission in Union Territories",
+        "description": "President may constitute Finance Commission for Union Territories to recommend distribution of funds to Panchayats."
+    },
+    {
+        "number": "Article 243O",
+        "name": "Savings",
+        "description": "Nothing in this Part shall affect the powers of Parliament or state legislatures to make laws relating to Panchayats."
+    },
+    {
+        "number": "Article 243P",
+        "name": "Municipalities Definitions",
+        "description": "Defines key terms used in Part IXA, including 'Municipality', 'Chairperson', and 'Ward Committee'."
+    },
+    {
+        "number": "Article 243Q",
+        "name": "Constitution of Municipalities",
+        "description": "Municipalities shall be constituted in every urban area with such powers and responsibilities as the state legislature may specify."
+    },
+    {
+        "number": "Article 243R",
+        "name": "Composition of Municipalities",
+        "description": "Municipalities consist of members elected from territorial constituencies called wards and may include nominated members."
+    },
+    {
+        "number": "Article 243S",
+        "name": "Duration of Municipalities",
+        "description": "Municipalities have a term of five years; provisions for dissolution and continuation of business are specified."
+    },
+    {
+        "number": "Article 243T",
+        "name": "Reservation of Seats",
+        "description": "Seats are reserved for Scheduled Castes, Scheduled Tribes, and women as per law for fair representation in Municipalities."
+    },
+    {
+        "number": "Article 243U",
+        "name": "Officers and Staff of Municipalities",
+        "description": "State legislature provides for appointment of officers and employees necessary for the administration of Municipalities."
+    },
+    {
+        "number": "Article 243V",
+        "name": "Powers, Authority, and Responsibilities of Municipalities",
+        "description": "Municipalities are responsible for preparing plans for economic development, social justice, and urban governance in their areas."
+    },
+    {
+        "number": "Article 243W",
+        "name": "Elections to Municipalities",
+        "description": "State Election Commission conducts, supervises, and controls elections to Municipalities."
+    },
+    {
+        "number": "Article 243X",
+        "name": "Finance Commission",
+        "description": "State Finance Commission recommends distribution of financial resources between the state and Municipalities."
+    },
+    {
+        "number": "Article 243Y",
+        "name": "Application to Union Territories",
+        "description": "Provisions of Part IXA apply to Union Territories as specified by Parliament."
+    },
+    {
+        "number": "Article 243Z",
+        "name": "Savings",
+        "description": "Nothing in this Part affects the power of Parliament or state legislatures to make laws regarding Municipalities."
+    },
+    {
+        "number": "Article 243ZA",
+        "name": "Special Provisions for Certain Areas",
+        "description": "Parliament or state legislatures may provide special arrangements for Municipalities in certain areas."
+    },
+    {
+        "number": "Article 243ZB",
+        "name": "Ward Committees",
+        "description": "In larger urban areas, Ward Committees may be constituted for decentralized governance."
+    },
+    {
+        "number": "Article 243ZC",
+        "name": "District Planning Committees",
+        "description": "District Planning Committees prepare draft development plans integrating urban and rural planning in the district."
+    },
+    {
+        "number": "Article 243ZD",
+        "name": "Metropolitan Planning Committees",
+        "description": "In metropolitan areas, Planning Committees prepare draft development plans integrating all municipalities in the area."
+    },
+    {
+        "number": "Article 243ZE",
+        "name": "Powers and Functions of Planning Committees",
+        "description": "Planning Committees coordinate planning for economic development and social justice within their jurisdiction."
+    },
+    {
+        "number": "Article 243ZF",
+        "name": "Composition of Metropolitan and District Planning Committees",
+        "description": "Committees are composed of elected members of local bodies and representatives of state legislature, as specified by law."
+    },
+    {
+        "number": "Article 243ZG",
+        "name": "Savings",
+        "description": "Nothing in this Part affects the powers of Parliament or state legislatures to make laws regarding Municipalities and planning committees."
+    },
+    {
+        "number": "Article 244",
+        "name": "Administration of Scheduled Areas and Tribal Areas",
+        "description": "Parliament and state legislatures may make laws for the administration of Scheduled Areas and Tribal Areas. Scheduled Areas are under the Governor’s administration with special responsibilities for welfare and protection of tribal communities."
+    },
+    {
+        "number": "Article 244A",
+        "name": "Creation of an Autonomous State within a State",
+        "description": "Parliament may create an autonomous state within a state having a legislature and council of ministers for self-governance in tribal areas, subject to special provisions and safeguards."
+    },
+    {
+        "number": "Article 245",
+        "name": "Extent of Laws Made by Parliament and by the Legislatures of States",
+        "description": "Parliament and state legislatures may make laws for the whole or any part of India, but Parliament can make laws on matters in the Union List, and states on matters in the State List."
+    },
+    {
+        "number": "Article 246",
+        "name": "Subjects of Union, State and Concurrent Lists",
+        "description": "Defines the legislative powers of Parliament and state legislatures as per the Union List, State List, and Concurrent List in the Seventh Schedule."
+    },
+    {
+        "number": "Article 247",
+        "name": "Power of Parliament to Provide for Certain Matters Relating to the Lists",
+        "description": "Parliament may make laws on certain matters in the State List in the national interest or to implement agreements with states."
+    },
+    {
+        "number": "Article 248",
+        "name": "Residuary Powers of Parliament",
+        "description": "Parliament has exclusive power to make laws on any matter not enumerated in the State List or Union List."
+    },
+    {
+        "number": "Article 249",
+        "name": "Power of Parliament to Legislate in the National Interest",
+        "description": "Parliament may legislate on a State List matter if Rajya Sabha passes a resolution supported by two-thirds of members present and voting."
+    },
+    {
+        "number": "Article 250",
+        "name": "Legislation for Giving Effect to International Agreements",
+        "description": "Parliament may legislate on any matter in the State List to implement international agreements."
+    },
+    {
+        "number": "Article 251",
+        "name": "Inconsistency Between Laws Made by Parliament and Laws Made by the Legislatures of States",
+        "description": "In case of conflict between Union and State laws on concurrent subjects, Union law prevails; if both are made after commencement of the Constitution and approved by President, Union law prevails."
+    },
+    {
+        "number": "Article 252",
+        "name": "Power of Parliament to Legislate for Two or More States by Consent and Adoption of Such Law by Any Other State",
+        "description": "Parliament may legislate for two or more states with their consent; other states may adopt the law by resolution."
+    },
+    {
+        "number": "Article 253",
+        "name": "Legislation for Giving Effect to International Agreements and Treaties",
+        "description": "Parliament may make laws to implement international treaties and agreements, even if the subject is in the State List."
+    },
+    {
+        "number": "Article 254",
+        "name": "Inconsistency of Laws",
+        "description": "If a state law conflicts with a Union law on a concurrent subject, Union law prevails; state law void to extent of inconsistency unless approved by President."
+    },
+    {
+        "number": "Article 255",
+        "name": "Delegation of Legislative Powers",
+        "description": "Parliament or state legislature may delegate legislative powers to authorities in certain cases as per law."
+    },
+    {
+        "number": "Article 256",
+        "name": "Obligation of States and the Union",
+        "description": "States must ensure that Union laws are executed; Union may give directions to states as necessary."
+    },
+    {
+        "number": "Article 257",
+        "name": "Control of the Union Over States in Certain Cases",
+        "description": "Union can give directions to states to ensure proper governance and development."
+    },
+    {
+        "number": "Article 258",
+        "name": "Consent of States Required for the Exercise of Certain Functions by the Union",
+        "description": "Union government may exercise functions normally reserved for states with state consent."
+    },
+    {
+        "number": "Article 259",
+        "name": "Extension of Powers of Parliament to Certain Matters in the State List",
+        "description": "Parliament may legislate on state subjects if Rajya Sabha resolves it is necessary in national interest."
+    },
+    {
+        "number": "Article 260",
+        "name": "Disputes Relating to Waters of Inter-State Rivers or River Valleys",
+        "description": "Disputes regarding waters of inter-state rivers or river valleys resolved by Union Parliament or adjudicated by tribunals."
+    },
+    {
+        "number": "Article 261",
+        "name": "Public Acts, Records, and Judicial Proceedings",
+        "description": "Full faith and credit shall be given throughout India to public acts, records, and judicial proceedings of Union and states."
+    },
+    {
+        "number": "Article 262",
+        "name": "Adjudication of Disputes Relating to Waters of Inter-State Rivers or River Valleys",
+        "description": "Parliament may provide for adjudication of disputes relating to waters of inter-state rivers or river valleys by tribunals."
+    },
+    {
+        "number": "Article 263",
+        "name": "Inter-State Council",
+        "description": "President may establish an Inter-State Council to discuss and recommend policies on disputes and coordination between Union and states."
+    },
+    {
+        "number": "Article 264",
+        "name": "Interpretation",
+        "description": "Explanation of certain financial terms used in this Part."
+    },
+    {
+        "number": "Article 265",
+        "name": "Taxes not to be Imposed save by Authority of Law",
+        "description": "No tax shall be levied or collected except by authority of law."
+    },
+    {
+        "number": "Article 266",
+        "name": "Consolidated Funds and Public Accounts",
+        "description": "Specifies creation and maintenance of Consolidated Fund of India, Consolidated Funds of States, and Public Accounts."
+    },
+    {
+        "number": "Article 267",
+        "name": "Contingency Fund",
+        "description": "Contingency Fund of India and of states maintained for unexpected expenditure."
+    },
+    {
+        "number": "Article 268",
+        "name": "Taxes levied by the Union but collected and appropriated by the States",
+        "description": "Certain taxes assigned to states though levied by Union."
+    },
+    {
+        "number": "Article 269",
+        "name": "Taxes levied and collected by the Union but assigned to the States",
+        "description": "Certain taxes collected by Union but assigned to states; details of collection and allocation specified."
+    },
+    {
+        "number": "Article 270",
+        "name": "Taxes levied and distributed between Union and States",
+        "description": "Certain taxes levied by Union shared between Union and states as specified."
+    },
+    {
+        "number": "Article 271",
+        "name": "Surcharge on Certain Duties and Taxes for Purposes of the Union",
+        "description": "Parliament may levy surcharge on certain taxes for Union purposes."
+    },
+    {
+        "number": "Article 272",
+        "name": "Repealed",
+        "description": "This article is omitted and has no content."
+    },
+    {
+        "number": "Article 273",
+        "name": "Grants in Lieu of Export Duty on jute and jute products",
+        "description": "Union may provide grants in lieu of export duty on jute and jute products to states."
+    },
+    {
+        "number": "Article 274",
+        "name": "Recommendations of President as to Appropriations",
+        "description": "President recommends to Parliament appropriations from Consolidated Fund."
+    },
+    {
+        "number": "Article 275",
+        "name": "Grants from Union to certain States",
+        "description": "Union provides grants to states for promotion of welfare and development."
+    },
+    {
+        "number": "Article 276",
+        "name": "Taxes on Professions, Trades, Callings and Employments",
+        "description": "State legislatures may levy taxes on professions, trades, callings, and employments."
+    },
+    {
+        "number": "Article 277",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 278",
+        "name": "Liability of States in Respect of Certain Expenses of Union",
+        "description": "Certain expenses of Union chargeable on states, e.g., contributions to defense."
+    },
+    {
+        "number": "Article 279",
+        "name": "Finance Commission",
+        "description": "President constitutes a Finance Commission every five years to recommend distribution of revenues between Union and states."
+    },
+    {
+        "number": "Article 280",
+        "name": "Finance Commission",
+        "description": "Details powers, functions, and recommendations of Finance Commission for equitable distribution of revenues."
+    },
+    {
+        "number": "Article 281",
+        "name": "Recommendations of Finance Commission",
+        "description": "Finance Commission makes recommendations on distribution of net proceeds of taxes and grants-in-aid."
+    },
+    {
+        "number": "Article 282",
+        "name": "Grants by the Union to States",
+        "description": "Union may make grants to states for any public purpose even if not required by Constitution."
+    },
+    {
+        "number": "Article 283",
+        "name": "Custody, etc., of Consolidated Funds and of moneys credited to the Public Accounts",
+        "description": "Custody of funds of Union and states maintained under Consolidated Fund or Public Accounts."
+    },
+    {
+        "number": "Article 284",
+        "name": "Custody of suable moneys",
+        "description": "All suable moneys of the Union or states kept in custody of Union or state authorities."
+    },
+    {
+        "number": "Article 285",
+        "name": "Exemption of property of the Union from State taxation",
+        "description": "Property of Union is exempt from state taxation."
+    },
+    {
+        "number": "Article 286",
+        "name": "Restrictions as to imposition of tax on the sale or purchase of goods",
+        "description": "Provisions for restrictions on sales tax on goods moving between states."
+    },
+    {
+        "number": "Article 287",
+        "name": "Exemption from taxes on electricity",
+        "description": "Union and state properties producing electricity may be exempt from taxation under certain conditions."
+    },
+    {
+        "number": "Article 288",
+        "name": "Taxes on railway fares and freights",
+        "description": "Union may levy taxes on railways; states may levy duties on railways in certain cases."
+    },
+    {
+        "number": "Article 289",
+        "name": "Exemption from taxes on ships and vessels",
+        "description": "Ships and vessels owned by Union exempt from certain taxes."
+    },
+    {
+        "number": "Article 290",
+        "name": "Adjustment of Grants-in-Aid in Respect of certain taxes",
+        "description": "Provisions for adjustment of grants and revenues between Union and states."
+    },
+    {
+        "number": "Article 291",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 292",
+        "name": "Borrowing by the Union",
+        "description": "Union may borrow within India or outside for purposes of the Union."
+    },
+    {
+        "number": "Article 293",
+        "name": "Borrowing by States",
+        "description": "States may borrow within India for purposes of the state; conditions subject to Union law."
+    },
+    {
+        "number": "Article 294",
+        "name": "Revenue of Union and States",
+        "description": "All revenues received by Union or states are credited to Consolidated Fund."
+    },
+    {
+        "number": "Article 295",
+        "name": "Property of the Union and of the States",
+        "description": "Union and states have ownership of property acquired or assigned to them."
+    },
+    {
+        "number": "Article 296",
+        "name": "Property of the Union",
+        "description": "Union owns all property vested in it and under its control."
+    },
+    {
+        "number": "Article 297",
+        "name": "Property of States",
+        "description": "States own property vested in them and under their control."
+    },
+    {
+        "number": "Article 298",
+        "name": "Power of the Union and the States to Trade, etc.",
+        "description": "Union and states may carry on trade, business, or manufacturing; conditions prescribed by law."
+    },
+    {
+        "number": "Article 299",
+        "name": "Contracts on behalf of the Union",
+        "description": "All contracts made in name of Union must be executed in prescribed manner; same for states."
+    },
+    {
+        "number": "Article 300",
+        "name": "Suits and Proceedings",
+        "description": "Union and states may sue or be sued by name of Union or state."
+    },
+    {
+        "number": "Article 300A",
+        "name": "Right to Property",
+        "description": "No person shall be deprived of property except by authority of law."
+    },
+    {
+        "number": "Article 301",
+        "name": "Freedom of Trade, Commerce and Intercourse",
+        "description": "Trade, commerce, and intercourse throughout the territory of India shall be free."
+    },
+    {
+        "number": "Article 302",
+        "name": "Power of Parliament to Impose Restrictions on Trade, Commerce and Intercourse",
+        "description": "Parliament may impose restrictions on trade and commerce in the public interest by law."
+    },
+    {
+        "number": "Article 303",
+        "name": "Restriction on Trade and Commerce within a State",
+        "description": "State legislatures cannot enact laws that obstruct free trade, commerce, or intercourse, except under Parliament-approved exceptions."
+    },
+    {
+        "number": "Article 304",
+        "name": "Restrictions on Trade and Commerce within a State",
+        "description": "State legislature may impose reasonable restrictions in public interest and levy duties on goods within state; must not discriminate between states or goods."
+    },
+    {
+        "number": "Article 305",
+        "name": "Saving of Existing Laws and Laws Providing for State Monopolies",
+        "description": "Existing laws or state monopolies in trade or commerce are saved; they continue despite other provisions of this Part."
+    },
+    {
+        "number": "Article 306",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 307",
+        "name": "Appointment of Authority for Carrying Out the Purposes of Articles 301 to 304",
+        "description": "President may appoint authorities for supervision and regulation of trade and commerce between states to ensure free flow of goods."
+    },
+    {
+        "number": "Article 308",
+        "name": "Definitions",
+        "description": "Defines key terms used in Part XIV, including 'All-India Services', 'State Services', and 'Union Services'."
+    },
+    {
+        "number": "Article 309",
+        "name": "Recruitment and Conditions of Service of Persons Serving the Union or a State",
+        "description": "Parliament or the state legislature may regulate recruitment and conditions of service of persons serving under the Union or states."
+    },
+    {
+        "number": "Article 310",
+        "name": "Tenure of Office of Persons Serving the Union or a State",
+        "description": "Persons serving under the Union or states hold office during the pleasure of the President or Governor, subject to other provisions of the Constitution."
+    },
+    {
+        "number": "Article 311",
+        "name": "Dismissal, Removal or Reduction in Rank of Persons Serving the Union or a State",
+        "description": "Rules regarding disciplinary action, dismissal, removal, or reduction in rank, with safeguards for civil servants."
+    },
+    {
+        "number": "Article 312",
+        "name": "All-India Services",
+        "description": "Parliament may create new All-India Services common to Union and states, in addition to existing services like IAS, IPS."
+    },
+    {
+        "number": "Article 313",
+        "name": "Suspension of a Member of a State Service or the All-India Service",
+        "description": "Temporary suspension provisions for members of state or All-India Services in case of pending investigation or proceedings."
+    },
+    {
+        "number": "Article 314",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 315",
+        "name": "Public Service Commissions for the Union and the States",
+        "description": "Establishment of Union and State Public Service Commissions to conduct recruitment and advise on service matters."
+    },
+    {
+        "number": "Article 316",
+        "name": "Appointment and Term of Office of Members",
+        "description": "Members of Public Service Commissions appointed by President or Governor, with a tenure of six years or until age 62."
+    },
+    {
+        "number": "Article 317",
+        "name": "Removal and Suspension of a Member of a Public Service Commission",
+        "description": "Conditions and procedure for removal or suspension of commission members."
+    },
+    {
+        "number": "Article 318",
+        "name": "Conditions of Service of Members and Staff of the Commissions",
+        "description": "Regulates conditions of service, salaries, and allowances of commission members and staff."
+    },
+    {
+        "number": "Article 319",
+        "name": "Prohibition as to Further Employment",
+        "description": "Restrictions on employment after retirement or resignation from certain services."
+    },
+    {
+        "number": "Article 320",
+        "name": "Functions of the Public Service Commissions",
+        "description": "Advises on recruitment, promotions, transfers, disciplinary matters, and other service-related matters."
+    },
+    {
+        "number": "Article 321",
+        "name": "Power of the Legislature of a State to Extend the Functions of Public Service Commission",
+        "description": "State legislature may extend functions of the state Public Service Commission beyond constitutional provisions."
+    },
+    {
+        "number": "Article 322",
+        "name": "Expenses of Public Service Commissions",
+        "description": "Salaries, allowances, and expenses of the commissions charged to the Consolidated Fund of India or the state."
+    },
+    {
+        "number": "Article 323",
+        "name": "Reports of the Public Service Commissions",
+        "description": "Commissions submit annual reports to the President or Governor; reports laid before Parliament or the state legislature."
+    },
+    {
+        "number": "Article 323A",
+        "name": "Administrative Tribunals",
+        "description": "Parliament may by law provide for the adjudication or trial of disputes and complaints regarding recruitment, and conditions of service of persons appointed to public services and posts in connection with the affairs of the Union or of any State."
+    },
+    {
+        "number": "Article 323B",
+        "name": "Tribunals for Other Matters",
+        "description": "Parliament or state legislatures may establish tribunals for the adjudication of disputes related to taxes, foreign exchange, industrial and labour matters, land reforms, and other specified areas."
+    },
+    {
+        "number": "Article 324",
+        "name": "Superintendence, Direction, and Control of Elections",
+        "description": "Elections to Parliament, state legislatures, and offices of President and Vice-President shall be conducted by the Election Commission, which has superintendence, direction, and control over them."
+    },
+    {
+        "number": "Article 325",
+        "name": "No Person to be ineligible on Grounds of Religion, Race, Caste, or Sex",
+        "description": "No person shall be disqualified from being a voter on the grounds of religion, race, caste, or sex."
+    },
+    {
+        "number": "Article 326",
+        "name": "Elections to the House of the People and to the Legislative Assemblies of States to be on the Basis of Adult Suffrage",
+        "description": "Elections to Lok Sabha and state assemblies shall be based on adult suffrage; every citizen of India who is 18 years or older has the right to vote."
+    },
+    {
+        "number": "Article 327",
+        "name": "Power of Parliament to Enact Laws Relating to Elections",
+        "description": "Parliament may regulate the conduct of elections to Parliament and state legislatures, including preparation of electoral rolls and allocation of constituencies."
+    },
+    {
+        "number": "Article 328",
+        "name": "Power of Legislature of a State to Enact Laws Relating to Elections to the Legislature of the State",
+        "description": "State legislatures may make laws regarding elections to state assemblies and legislative councils, subject to provisions of Parliament law."
+    },
+    {
+        "number": "Article 329",
+        "name": "Bar to interference by Courts in Electoral Matters",
+        "description": "Courts shall not interfere in matters relating to elections to Parliament or state legislatures, except as expressly provided by law."
+    },
+    {
+        "number": "Article 329A",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 330",
+        "name": "Reservation of Seats for Scheduled Castes and Scheduled Tribes in the House of the People",
+        "description": "Seats are reserved in the Lok Sabha for Scheduled Castes (SCs) and Scheduled Tribes (STs) in proportion to their population in each state."
+    },
+    {
+        "number": "Article 331",
+        "name": "Representation of the Anglo-Indian Community in the House of the People",
+        "description": "President may nominate members of the Anglo-Indian community to the Lok Sabha if the community is not adequately represented."
+    },
+    {
+        "number": "Article 332",
+        "name": "Reservation of Seats for Scheduled Castes and Scheduled Tribes in the Legislative Assemblies of the States",
+        "description": "Seats are reserved in state assemblies for SCs and STs in proportion to their population in each state."
+    },
+    {
+        "number": "Article 333",
+        "name": "Representation of the Anglo-Indian Community in the Legislative Assemblies of the States",
+        "description": "Governor may nominate members of the Anglo-Indian community to the state legislative assembly if the community is not adequately represented."
+    },
+    {
+        "number": "Article 334",
+        "name": "Reservation of Seats and Representation of the Anglo-Indian Community to Cease After Certain Period",
+        "description": "Reservations of seats for SCs, STs, and Anglo-Indian community representation in legislatures are subject to periodic review by Parliament; initially set for 10 years after commencement of Constitution, extendable by law."
+    },
+    {
+        "number": "Article 335",
+        "name": "Claims of Scheduled Castes and Scheduled Tribes to Services and Posts",
+        "description": "SCs and STs have claims to appointments and promotions in public services consistent with efficiency of administration."
+    },
+    {
+        "number": "Article 336",
+        "name": "Special Provision for Public Service Commission in Union Territories",
+        "description": "Provisions regarding recruitment and service conditions for Union Territories in respect of SCs and STs."
+    },
+    {
+        "number": "Article 337",
+        "name": "Special Provision with Respect to Educational Grants for Scheduled Castes and Scheduled Tribes",
+        "description": "President may make grants to states to promote education among SCs and STs."
+    },
+    {
+        "number": "Article 338",
+        "name": "National Commission for Scheduled Castes",
+        "description": "National Commission for SCs established to investigate and monitor safeguards, evaluate working of protective measures, and report to President."
+    },
+    {
+        "number": "Article 338A",
+        "name": "National Commission for Scheduled Tribes",
+        "description": "National Commission for STs established to investigate and monitor safeguards, evaluate working of protective measures, and report to President."
+    },
+    {
+        "number": "Article 339",
+        "name": "Control of the Union Over Scheduled Areas and Tribes",
+        "description": "President may issue regulations for the welfare and administration of Scheduled Areas and STs; includes supervision of money grants and developmental schemes."
+    },
+    {
+        "number": "Article 340",
+        "name": "Appointment of a Commission to Investigate Conditions of Backward Classes",
+        "description": "President may appoint a commission to investigate socially and educationally backward classes and recommend measures for their advancement."
+    },
+    {
+        "number": "Article 341",
+        "name": "Scheduled Castes",
+        "description": "President specifies SCs for purposes of the Constitution; Parliament may modify list by law."
+    },
+    {
+        "number": "Article 342",
+        "name": "Scheduled Tribes",
+        "description": "President specifies STs for purposes of the Constitution; Parliament may modify list by law."
+    },
+    {
+        "number": "Article 343",
+        "name": "Official Language of the Union",
+        "description": "The official language of the Union shall be Hindi in Devanagari script; English may also be used for official purposes for a transitional period as provided."
+    },
+    {
+        "number": "Article 344",
+        "name": "Commission and Committee of Parliament on Official Language",
+        "description": "Provides for the establishment of a Commission to promote the progressive use of Hindi and a Committee to report on the practical aspects of language policy."
+    },
+    {
+        "number": "Article 345",
+        "name": "Official Language of a State",
+        "description": "Legislature of a state may adopt any language used in the state as its official language for all or any official purposes."
+    },
+    {
+        "number": "Article 346",
+        "name": "Official Language for Communication Between the Union and a State",
+        "description": "Specifies the language to be used for official communication between the Union and the states; Hindi and English may be used as per law or agreement."
+    },
+    {
+        "number": "Article 347",
+        "name": "Special Provision Relating to Language Spoken by a Section of the Population of a State",
+        "description": "President may recognize a language spoken by a section of a state’s population for official purposes if requested by state legislature."
+    },
+    {
+        "number": "Article 348",
+        "name": "Language to be Used in the Supreme Court and High Courts and for Acts, Bills, etc.",
+        "description": "Hindi or English may be used in Supreme Court and High Courts; bills and acts of Parliament initially in English or Hindi."
+    },
+    {
+        "number": "Article 349",
+        "name": "Special Directive for the Development of the Hindi Language",
+        "description": "President may give directives for developing Hindi language to ensure it becomes a medium for official and scientific work."
+    },
+    {
+        "number": "Article 350",
+        "name": "Languages for Instruction in Education",
+        "description": "States and Union should provide facilities for instruction in mother tongue at primary stage and ensure adequate representation of minorities."
+    },
+    {
+        "number": "Article 350A",
+        "name": "Facilities for Instruction in Mother Tongue at Primary Stage",
+        "description": "Every state and Union territory shall provide adequate facilities for instruction in mother tongue at primary stage to children belonging to linguistic minority groups."
+    },
+    {
+        "number": "Article 350B",
+        "name": "Special Officer for Linguistic Minorities",
+        "description": "President appoints a Special Officer to investigate and report on safeguards provided to linguistic minorities."
+    },
+    {
+        "number": "Article 351",
+        "name": "Directive for Development of Hindi",
+        "description": "Union shall take steps to promote Hindi language so that it may serve as a medium of expression for all elements of the Indian population."
+    },
+    {
+        "number": "Article 352",
+        "name": "Proclamation of Emergency",
+        "description": "President may proclaim National Emergency on grounds of war, external aggression, or armed rebellion. Parliament must approve the proclamation within one month."
+    },
+    {
+        "number": "Article 353",
+        "name": "Effect of Proclamation of Emergency",
+        "description": "During emergency, the executive power of the Union extends to giving directions to states; Parliament may make laws on state subjects."
+    },
+    {
+        "number": "Article 354",
+        "name": "Financial Provisions during Emergency",
+        "description": "Distribution of revenues between Union and states may be varied; grants may be made to states out of the Consolidated Fund of India."
+    },
+    {
+        "number": "Article 355",
+        "name": "Duty of the Union to Protect States",
+        "description": "Union shall protect states from external aggression and internal disturbances and ensure that government in a state is carried on according to the Constitution."
+    },
+    {
+        "number": "Article 356",
+        "name": "Provisions in Case of Failure of Constitutional Machinery in States",
+        "description": "President may assume control of state government if constitutional machinery fails; Parliament approves and can legislate for the state during such period."
+    },
+    {
+        "number": "Article 357",
+        "name": "Exercise of Legislative Powers under Provisions of Article 356",
+        "description": "Parliament may confer powers on Union authorities to legislate for states under President’s rule."
+    },
+    {
+        "number": "Article 358",
+        "name": "Suspension of the Provisions of Article 19 During Emergency",
+        "description": "fundamental-rights under Article 19 are automatically suspended during a National Emergency proclaimed under Article 352."
+    },
+    {
+        "number": "Article 359",
+        "name": "Suspension of the Provisions of Article 19 and of Enforcement of Other fundamental-rights During Emergency",
+        "description": "President may suspend enforcement of fundamental-rights under Articles 19, 20, and 21 during National Emergency; Parliament may approve extension."
+    },
+    {
+        "number": "Article 360",
+        "name": "Financial Emergency",
+        "description": "President may proclaim Financial Emergency if financial stability or credit of India is threatened; Parliament must approve. During such emergency, Union can give directions to states regarding financial matters."
+    },
+    {
+        "number": "Article 361",
+        "name": "Protection of President and Governors",
+        "description": "The President and the Governors are not answerable to any court for the exercise of their powers and duties. No civil or criminal proceedings can be initiated against them during their term of office without prior sanction."
+    },
+    {
+        "number": "Article 362",
+        "name": "Oaths and Affirmations",
+        "description": "Provision for oaths or affirmations by certain persons holding public offices, as prescribed by law."
+    },
+    {
+        "number": "Article 363",
+        "name": "Provisions Relating to the Conduct of Business in States under the Governor",
+        "description": "States under certain conditions like President’s rule have their administration conducted by Union authorities, as provided by law."
+    },
+    {
+        "number": "Article 364",
+        "name": "Annual Financial Statement",
+        "description": "Union budget or annual financial statement must be laid before both Houses of Parliament, specifying estimated receipts and expenditure."
+    },
+    {
+        "number": "Article 365",
+        "name": "Effect of Failure to Comply with Directions of the Union",
+        "description": "Failure by a state to comply with directions issued by Union may lead to President's rule or other measures under the Constitution."
+    },
+    {
+        "number": "Article 366",
+        "name": "Definitions",
+        "description": "Defines key terms used throughout the Constitution, such as 'State', 'Government', 'Union', etc."
+    },
+    {
+        "number": "Article 367",
+        "name": "Interpretation",
+        "description": "Provides guidelines for interpretation of the Constitution, its provisions, and definitions used within."
+    },
+    {
+        "number": "Article 368",
+        "name": "Power of Parliament to Amend the Constitution and Procedure Therefor",
+        "description": "Parliament may amend the Constitution by adding, varying, or repealing provisions. Amendments can be made by a special majority of both Houses and, in certain cases, require ratification by half of the state legislatures. The basic structure of the Constitution cannot be altered."
+    },
+    {
+        "number": "Article 369",
+        "name": "Application of Certain Provisions to Goa, Daman and Diu",
+        "description": "Certain provisions of the Constitution shall apply to the Union territory of Goa, Daman, and Diu as adapted by Parliament."
+    },
+    {
+        "number": "Article 370",
+        "name": "Temporary Provisions with Respect to the State of Jammu and Kashmir",
+        "description": "Special provisions related to the State of Jammu and Kashmir, including autonomy in its internal administration; Parliament's powers are limited except as extended by the state."
+    },
+    {
+        "number": "Article 371",
+        "name": "Special Provisions for States",
+        "description": "Special provisions for various states like Maharashtra, Gujarat, Nagaland, Assam, Manipur, Andhra Pradesh, Sikkim, Mizoram, Arunachal Pradesh, Goa, and others regarding administration, legislature, and representation."
+    },
+    {
+        "number": "Article 371A",
+        "name": "Special Provisions for Nagaland",
+        "description": "Autonomy for Nagaland in religious or social practices, customary law, and ownership of land and resources."
+    },
+    {
+        "number": "Article 371B",
+        "name": "Special Provisions for Assam",
+        "description": "Special administrative provisions for certain tribal areas in Assam and representation in the legislature."
+    },
+    {
+        "number": "Article 371C",
+        "name": "Special Provision for Manipur",
+        "description": "Special administrative provisions for hill areas in Manipur."
+    },
+    {
+        "number": "Article 371D",
+        "name": "Special Provisions for Andhra Pradesh",
+        "description": "Reservation of posts and educational opportunities for local people of different regions of Andhra Pradesh."
+    },
+    {
+        "number": "Article 371E",
+        "name": "Special Provisions for Andhra Pradesh",
+        "description": "Establishment of University for backward classes in Andhra Pradesh."
+    },
+    {
+        "number": "Article 371F",
+        "name": "Special Provisions for Sikkim",
+        "description": "Autonomy and special legislative powers for Sikkim, representation in Parliament."
+    },
+    {
+        "number": "Article 371G",
+        "name": "Special Provision for Mizoram",
+        "description": "Autonomy for Mizoram in religious and social practices, customary law, and resource management."
+    },
+    {
+        "number": "Article 371H",
+        "name": "Special Provision for Arunachal Pradesh",
+        "description": "Governor’s special responsibilities and legislative powers in Arunachal Pradesh."
+    },
+    {
+        "number": "Article 371I",
+        "name": "Special Provision for Goa",
+        "description": "Governor’s powers and administration of state legislative procedures in Goa."
+    },
+    {
+        "number": "Article 372",
+        "name": "Continuance in Force of Existing Laws and Their Adaptation",
+        "description": "All laws in force before commencement of Constitution continue until altered or repealed by competent authority."
+    },
+    {
+        "number": "Article 373",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 374",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 375",
+        "name": "Application of Indian Penal Code to State of Jammu and Kashmir",
+        "description": "Indian Penal Code, Criminal Procedure Code, and other central laws do not automatically apply to Jammu and Kashmir except as extended by the state legislature."
+    },
+    {
+        "number": "Article 376",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 377",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 378",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 379",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 380",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 381",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 382",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 383",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 384",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 385",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 386",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 387",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 388",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 389",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 390",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 391",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 392",
+        "name": "Repealed",
+        "description": "This article has been repealed and has no content."
+    },
+    {
+        "number": "Article 393",
+        "name": "Short Title",
+        "description": "The Constitution may be called 'The Constitution of India'."
+    },
+    {
+        "number": "Article 394",
+        "name": "Commencement of the Constitution",
+        "description": "Provisions of the Constitution came into force on 26th January 1950, unless otherwise specified."
+    },
+    {
+        "number": "Article 395",
+        "name": "Repeals",
+        "description": "The Indian Independence Act, 1947, and other enactments are repealed to the extent of their inconsistency with the Constitution, except as saved by provisions."
+    },
+    {
+        "number": "Part I, section 1, The Union and Its Territory",
+        "name": "Articles 1\u20134",
+        "description": [
+            "The Union and Its Territory",
+            "Name and territory of India",
+            "Admission of new states",
+            "Formation of new states",
+            "Alteration of areas, boundaries, or names of existing states",
+            "Laws relating to the above matters"
+        ]
+    },
+    {
+        "number": "Part II, section 2, Citizenship",
+        "name": "Articles 5\u201311",
+        "description": [
+            "Citizenship at the commencement of the Constitution",
+            "Rights of citizenship",
+            "Domicile-based citizenship",
+            "Migration-related citizenship provisions",
+            "Parliament's power to regulate citizenship"
+        ]
+    },
+    {
+        "number": "Part III, section 3, fundamental rights",
+        "name": "Articles 12\u201335",
+        "description": [
+            "Right to Equality (Articles 14\u201318)",
+            "Right to Freedom (Articles 19\u201322)",
+            "Right against Exploitation (Articles 23\u201324)",
+            "Right to Freedom of Religion (Articles 25\u201328)",
+            "Cultural and Educational Rights (Articles 29\u201330)",
+            "Right to Constitutional Remedies (Article 32)"
+        ]
+    },
+    {
+        "number": "Part IV, section 4, Directive Principles of State Policy",
+        "name": "Articles 36\u201351",
+        "description": [
+            "Social and economic welfare principles",
+            "Gandhian principles",
+            "Directive for international peace",
+            "Equal justice and free legal aid",
+            "Organisation of village panchayats"
+        ]
+    },
+    {
+        "number": "Part IVA, section 4A, Fundamental Duties",
+        "name": "Article 51A",
+        "description": [
+            "Duties of citizens toward the nation",
+            "Protection of sovereignty and unity",
+            "Promotion of harmony and brotherhood",
+            "Safeguarding public property",
+            "Developing scientific temper"
+        ]
+    },
+    {
+        "number": "Part V, section 5, The Union Government",
+        "name": "Articles 52\u2013151",
+        "description": [
+            "President and Vice-President",
+            "Council of Ministers and Prime Minister",
+            "Union Parliament: Lok Sabha & Rajya Sabha",
+            "Legislative procedures",
+            "Comptroller and Auditor-General of India",
+            "Supreme Court and its jurisdiction"
+        ]
+    },
+    {
+        "number": "Part VI, section 6, The State Governments",
+        "name": "Articles 152\u2013237",
+        "description": [
+            "Governor",
+            "State Council of Ministers",
+            "State Legislature",
+            "High Courts",
+            "Subordinate courts"
+        ]
+    },
+    {
+        "number": "Part VII, section 7, States in Part B",
+        "name": "Article 238 (Repealed)",
+        "description": [
+            "This part originally dealt with Part B states",
+            "Repealed by the 7th Amendment"
+        ]
+    },
+    {
+        "number": "Part VIII, section 8, Union Territories",
+        "name": "Articles 239\u2013242",
+        "description": [
+            "Administration of Union Territories",
+            "Lieutenant Governor and Administrator roles",
+            "Special provisions for Delhi, Puducherry, etc."
+        ]
+    },
+    {
+        "number": "Part IX, section 9, Panchayats",
+        "name": "Articles 243\u2013243O",
+        "description": [
+            "Gram Sabha",
+            "Structure of Panchayati Raj",
+            "Powers and responsibilities",
+            "Finance Commission for Panchayats",
+            "Reservation in Panchayats"
+        ]
+    },
+    {
+        "number": "Part IXA, section 9A, Municipalities",
+        "name": "Articles 243P\u2013243ZG",
+        "description": [
+            "Urban local governments",
+            "Types of municipalities",
+            "Wards and committees",
+            "Urban planning responsibilities",
+            "Reservation and elections"
+        ]
+    },
+    {
+        "number": "Part IXB, section 9B, Co-operative Societies",
+        "name": "Articles 243ZH\u2013243ZT",
+        "description": [
+            "Formation of cooperative societies",
+            "Regulation and management",
+            "Auditing and accountability",
+            "Membership rights"
+        ]
+    },
+    {
+        "number": "Part X, section 10, Scheduled and Tribal Areas",
+        "name": "Articles 244\u2013244A",
+        "description": [
+            "Administration of Scheduled Areas",
+            "Administration of Tribal Areas",
+            "Autonomous District Councils",
+            "Special provisions for Assam and Meghalaya"
+        ]
+    },
+    {
+        "number": "Part XI, section 11, Relations Between Union and States",
+        "name": "Articles 245\u2013263",
+        "description": [
+            "Legislative relations",
+            "Distribution of legislative powers",
+            "Administrative relations",
+            "Inter-State Council",
+            "Dispute settlement between states"
+        ]
+    },
+    {
+        "number": "Part XII, section 12, Finance, Property, Contracts and Suits",
+        "name": "Articles 264\u2013300A",
+        "description": [
+            "Distribution of financial powers",
+            "Property of the Union and States",
+            "Government contracts",
+            "Borrowing powers",
+            "Bar on deprivation of property"
+        ]
+    },
+    {
+        "number": "Part XIII, section 13, Trade and Commerce",
+        "name": "Articles 301\u2013307",
+        "description": [
+            "Freedom of trade and commerce",
+            "Restrictions on trade",
+            "Interstate commerce regulations"
+        ]
+    },
+    {
+        "number": "Part XIV, section 14, Services Under Union and States",
+        "name": "Articles 308\u2013323",
+        "description": [
+            "All India Services",
+            "Public Service Commissions",
+            "Service conditions",
+            "Recruitment and appointment"
+        ]
+    },
+    {
+        "number": "Part XIVA, section 14A, Tribunals",
+        "name": "Articles 323A\u2013323B",
+        "description": [
+            "Administrative Tribunals",
+            "Tribunals for special matters",
+            "Jurisdiction and powers of tribunals"
+        ]
+    },
+    {
+        "number": "Part XV, section 15, Elections",
+        "name": "Articles 324\u2013329A",
+        "description": [
+            "Election Commission of India",
+            "Conduct of elections",
+            "Electoral rolls",
+            "Parliamentary and state elections"
+        ]
+    },
+    {
+        "number": "Part XVI, section 16, Special Provisions for Certain Classes",
+        "name": "Articles 330\u2013342",
+        "description": [
+            "Reservation of SC/ST in Parliament and State Assemblies",
+            "Special provisions for backward classes",
+            "National Commission for SC/ST",
+            "Scheduled Tribes list"
+        ]
+    },
+    {
+        "number": "Part XVII, section 17, Official Language",
+        "name": "Articles 343\u2013351",
+        "description": [
+            "Hindi as official language",
+            "Use of English",
+            "Language of judiciary",
+            "Special directives for development of Hindi"
+        ]
+    },
+    {
+        "number": "Part XVIII, section 18, Emergency Provisions",
+        "name": "Articles 352\u2013360",
+        "description": [
+            "National Emergency",
+            "President's Rule",
+            "Financial Emergency",
+            "Effects on fundamental-rights",
+            "Powers of the Union during emergencies"
+        ]
+    },
+    {
+        "number": "Part XIX, section 19, Miscellaneous",
+        "name": "Articles 361\u2013367",
+        "description": [
+            "Protection of President and Governors",
+            "Bar on criminal proceedings",
+            "Definitions and interpretations"
+        ]
+    },
+    {
+        "number": "Part XX, section 20, Amendment of the Constitution",
+        "name": "Article 368",
+        "description": [
+            "Power of Parliament to amend the Constitution",
+            "Procedure of amendment",
+            "Types of amendments"
+        ]
+    },
+    {
+        "number": "Part XXI, section 21, Temporary, Transitional and Special Provisions",
+        "name": "Articles 369\u2013392",
+        "description": [
+            "Temporary laws",
+            "Transitional provisions",
+            "Special provisions for certain states",
+            "Adaptation of laws"
+        ]
+    },
+    {
+        "number": "Part XXII, section 22, Short Title, Commencement, Authoritative Text",
+        "name": "Articles 393\u2013395",
+        "description": [
+            "Short title of the Constitution",
+            "Commencement date",
+            "Repeal of Government of India Act 1935"
+        ]
+    },
+    {
+      "number": "schedule 1",
+      "name": "First Schedule",
+      "description": "The First Schedule lists all States and Union Territories (UTs) of India and defines their territorial boundaries. It is divided into two parts: Part A lists the names of States along with details of their territories; Part B lists Union Territories and their respective territorial extents. This schedule also includes provisions for altering state boundaries, creating new states, or modifying existing territories through parliamentary legislation under Articles 2, 3, and 4."
+    },
+    {
+      "number": "schedule 2",
+      "name": "Second Schedule",
+      "description": "The Second Schedule deals with the salaries, allowances, privileges, and emoluments of key constitutional authorities. These include: the President, Vice-President, Governors of States, Speakers and Deputy Speakers of the Lok Sabha and State Legislative Assemblies, Chairpersons and Deputy Chairpersons of the Rajya Sabha and State Legislative Councils, Judges of the Supreme Court and High Courts, and the Comptroller and Auditor General (CAG). The schedule contains several parts (A to I), each addressing a different constitutional office and its financial entitlements."
+    },
+    {
+      "number": "schedule 3",
+      "name": "Third Schedule",
+      "description": "The Third Schedule provides the official forms of oaths or affirmations that must be taken by various constitutional authorities before assuming office. These include Union Ministers, Members of Parliament (Lok Sabha and Rajya Sabha), State Ministers, Members of State Legislatures, the Judges of the Supreme Court and High Courts, and the Comptroller and Auditor General (CAG). The schedule ensures uniformity and constitutional allegiance through standardized oath forms under Articles 75(4), 99, 124(6), 188, and others."
+    },
+    {
+      "number": "schedule 4",
+      "name": "Fourth Schedule",
+      "description": "The Fourth Schedule specifies the allocation of seats for each State and Union Territory in the Rajya Sabha (Council of States). The number of seats is based on population and may be altered by Parliament. This schedule ensures proportional representation of states in the upper house, balancing federal principles with demographic realities. It operates under Articles 4 and 80."
+    },
+    {
+      "number": "schedule 5",
+      "name": "Fifth Schedule",
+      "description": "This schedule contains the provisions relating to the administration and control of Scheduled Areas and Scheduled Tribes in any state except those covered under the Sixth Schedule. It includes: (a) declaration of Scheduled Areas; (b) establishment of Tribes Advisory Councils for states with significant tribal populations; (c) powers of the Governor to make regulations for the peace and good governance of Scheduled Areas; (d) protection of tribal land and resources. It operates under Article 244(1) to ensure tribal welfare and autonomy."
+    },
+    {
+      "number": "schedule 6",
+      "name": "Sixth Schedule",
+      "description": "The Sixth Schedule provides a unique system of autonomous administration for tribal areas in Assam, Meghalaya, Tripura, and Mizoram. It establishes Autonomous District Councils and Regional Councils with legislative, administrative, and judicial powers. These councils can make laws on topics such as land, forests, water, village administration, inheritance, marriage, and social customs. The schedule aims to protect tribal identity and self-governance under Article 244(2) and Article 275(1)."
+    },
+    {
+      "number": "schedule 7",
+      "name": "Seventh Schedule",
+      "description": "The Seventh Schedule distributes legislative powers between the Union and State governments through three lists: (1) Union List – subjects on which only Parliament can legislate (e.g., defence, foreign affairs, banking, railways); (2) State List – subjects on which only state legislatures can legislate (e.g., police, public order, agriculture); (3) Concurrent List – subjects on which both Parliament and state legislatures can legislate (e.g., education, marriage and divorce, forests). Parliament has overriding authority in case of conflict on Concurrent List matters. It operates under Articles 246 and 248."
+    },
+    {
+      "number": "schedule 8",
+      "name": "Eighth Schedule",
+      "description": "The Eighth Schedule lists the officially recognized languages of India. Originally containing 14 languages, it now includes 22 languages after various constitutional amendments (such as the 21st, 71st, and 92nd amendments). The schedule empowers the government to promote and develop these languages and plays a key role in language policy, education, and government communication. It operates under Articles 344 and 351."
+    },
+    {
+      "number": "schedule 9",
+      "name": "Ninth Schedule",
+      "description": "The Ninth Schedule contains laws related primarily to land reforms and agrarian restructuring, including abolition of the zamindari system. Laws placed in this schedule were originally immune from judicial review under Article 31B to protect them from being challenged for violating fundamental-rights. However, the Supreme Court’s judgment in the I.R. Coelho (2007) case clarified that Ninth Schedule laws are subject to judicial review if they violate the basic structure of the Constitution."
+    },
+    {
+      "number": "schedule 10",
+      "name": "Tenth Schedule",
+      "description": "Commonly known as the Anti-Defection Law, this schedule provides rules for disqualification of Members of Parliament (MPs) and State Legislatures (MLAs) on the grounds of defection. It defines when voluntary giving up of party membership or voting against party directions results in disqualification. It also defines the roles of the Speaker/Chairperson as the decision-making authority in defection cases. Inserted by the 52nd Amendment Act, 1985 and strengthened by the 91st Amendment Act, 2003."
+    },
+    {
+      "number": "schedule 11",
+      "name": "Eleventh Schedule",
+      "description": "The Eleventh Schedule lists 29 subjects that outline the powers, responsibilities, and functions of Panchayati Raj Institutions (rural local governments). These subjects include agriculture, rural housing, drinking water, poverty alleviation, rural electrification, roads, health, women and child development, social welfare, and maintenance of community assets. Introduced by the 73rd Amendment Act, 1992, it aims to decentralize governance and promote grassroots democracy."
+    },
+    {
+      "number": "schedule 12",
+      "name": "Twelfth Schedule",
+      "description": "The Twelfth Schedule lists 18 subjects related to the powers and responsibilities of Urban Local Bodies (Municipalities). Key subjects include urban planning, regulation of land use, slum improvement, public health, water supply, sanitation, fire services, urban forestry, protection of environment, and provision of urban amenities. Introduced by the 74th Amendment Act, 1992, this schedule strengthens urban governance and decentralization."
+    }
+]

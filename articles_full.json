@@ -1,0 +1,133 @@
+[
+  {
+    "number": "Article 1",
+    "name": "Name and Territory of India",
+    "description": "India, that is Bharat, shall be a Union of States."
+  },
+  {
+    "number": "Article 3",
+    "name": "Formation of New States",
+    "description": "Parliament can form new states or change boundaries of existing states."
+  },
+  {
+    "number": "Article 12",
+    "name": "Definition of the State",
+    "description": "Defines 'State' to include government, Parliament, state legislatures, and local authorities."
+  },
+  {
+    "number": "Article 13",
+    "name": "Laws Inconsistent with fundamental-rights",
+    "description": "Any law violating fundamental-rights is void."
+  },
+  
+  /* fundamental-rights START */
+
+  {
+    "number": "Article 14",
+    "name": "Right to Equality",
+    "description": "Guarantees equality before the law and equal protection of laws."
+  },
+  {
+    "number": "Article 15",
+    "name": "Prohibition of Discrimination",
+    "description": "Prohibits discrimination based on religion, race, caste, sex, or place of birth."
+  },
+  {
+    "number": "Article 16",
+    "name": "Equality of Opportunity",
+    "description": "Equal job opportunity in public employment."
+  },
+  {
+    "number": "Article 17",
+    "name": "Abolition of Untouchability",
+    "description": "Untouchability is abolished and its practice is punishable."
+  },
+  {
+    "number": "Article 18",
+    "name": "Abolition of Titles",
+    "description": "State shall not confer titles except military or academic distinctions."
+  },
+
+  {
+    "number": "Article 19",
+    "name": "Six Freedom Rights",
+    "description": "Freedom of speech, assembly, movement, residence, profession, and forming associations."
+  },
+  {
+    "number": "Article 20",
+    "name": "Protection in Conviction for Offences",
+    "description": "No double punishment, no retrospective criminal laws, no self-incrimination."
+  },
+  {
+    "number": "Article 21",
+    "name": "Right to Life and Personal Liberty",
+    "description": "No one can be deprived of life or liberty except according to procedure established by law."
+  },
+  {
+    "number": "Article 21A",
+    "name": "Right to Education",
+    "description": "Free and compulsory education for children aged 6 to 14."
+  },
+  {
+    "number": "Article 22",
+    "name": "Protection Against Arrest",
+    "description": "Rights during arrest and detention, including legal representation and being informed of grounds."
+  },
+
+  {
+    "number": "Article 23",
+    "name": "Prohibition of Human Trafficking",
+    "description": "Prohibits trafficking, begar, and forced labour."
+  },
+  {
+    "number": "Article 24",
+    "name": "Prohibition of Child Labour",
+    "description": "Children under 14 cannot be employed in factories or hazardous places."
+  },
+
+  {
+    "number": "Article 25",
+    "name": "Freedom of Conscience & Religion",
+    "description": "Freedom to practice, profess, and propagate religion."
+  },
+  {
+    "number": "Article 26",
+    "name": "Religious Affairs",
+    "description": "Freedom to manage religious institutions."
+  },
+  {
+    "number": "Article 27",
+    "name": "No Tax for Religion",
+    "description": "No person shall be forced to pay taxes for promoting any religion."
+  },
+  {
+    "number": "Article 28",
+    "name": "No Religious Instruction in Govt Institutions",
+    "description": "Religious teaching is banned in fully government-run schools."
+  },
+
+  {
+    "number": "Article 29",
+    "name": "Protection of Culture",
+    "description": "Minorities can conserve their language, script, and culture."
+  },
+  {
+    "number": "Article 30",
+    "name": "Right of Minorities",
+    "description": "Minorities can run their own educational institutions."
+  },
+
+  {
+    "number": "Article 32",
+    "name": "Right to Constitutional Remedies",
+    "description": "Right to move the Supreme Court to protect fundamental-rights (Heart and Soul of Constitution)."
+  },
+
+  /* FUNDAMENTAL DUTIES */
+
+  {
+    "number": "Article 51A",
+    "name": "Fundamental Duties",
+    "description": "Lists 11 duties of every Indian citizen, including respecting the Constitution and promoting harmony."
+  }
+]

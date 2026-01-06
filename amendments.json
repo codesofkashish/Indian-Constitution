@@ -1,0 +1,527 @@
+[
+  {
+    "number": "1st Amendment",
+    "year": 1951,
+    "description": "Restricted freedom of speech and added the Ninth Schedule to protect land reform laws from judicial review."
+  },
+  {
+    "number": "2nd Amendment",
+    "year": 1952,
+    "description": "Changed representation in Parliament by removing population as the sole basis for allocating seats."
+  },
+  {
+    "number": "3rd Amendment",
+    "year": 1954,
+    "description": "Clarified Centre–State relations over trade and commerce; modified the Seventh Schedule."
+  },
+  {
+    "number": "4th Amendment",
+    "year": 1955,
+    "description": "Strengthened land reform laws and limited the right to property compensation."
+  },
+  {
+    "number": "5th Amendment",
+    "year": 1955,
+    "description": "Amended Article 3 related to the creation of new states and alteration of boundaries."
+  },
+  {
+    "number": "6th Amendment",
+    "year": 1956,
+    "description": "Revised taxation provisions for goods moving between states."
+  },
+  {
+    "number": "7th Amendment",
+    "year": 1956,
+    "description": "Implemented the States Reorganisation Act; reorganized India’s states based on language."
+  },
+  {
+    "number": "8th Amendment",
+    "year": 1960,
+    "description": "Extended reservation for SC/ST in legislatures for another 10 years."
+  },
+  {
+    "number": "9th Amendment",
+    "year": 1960,
+    "description": "Provided for transfer of territories to Pakistan as part of the Indo–Pakistan agreement."
+  },
+  {
+    "number": "10th Amendment",
+    "year": 1961,
+    "description": "Admitted Dadra & Nagar Haveli into the Union of India."
+  },
+  {
+    "number": "11th Amendment",
+    "year": 1961,
+    "description": "Changed election of the Vice President from an electoral college to both Houses of Parliament."
+  },
+  {
+    "number": "12th Amendment",
+    "year": 1962,
+    "description": "Established Goa, Daman & Diu as Union Territories after liberation from Portugal."
+  },
+  {
+    "number": "13th Amendment",
+    "year": 1962,
+    "description": "Created the State of Nagaland with special protections under Article 371A."
+  },
+  {
+    "number": "14th Amendment",
+    "year": 1962,
+    "description": "Incorporated Puducherry, Karaikal, Mahe, and Yanam into the Union of India."
+  },
+  {
+    "number": "15th Amendment",
+    "year": 1963,
+    "description": "Increased retirement age of High Court judges and expanded their jurisdiction."
+  },
+  {
+    "number": "16th Amendment",
+    "year": 1963,
+    "description": "Added restrictions to freedom of speech to protect sovereignty and integrity of India."
+  },
+  {
+    "number": "17th Amendment",
+    "year": 1964,
+    "description": "Added more land reform laws to the Ninth Schedule."
+  },
+  {
+    "number": "18th Amendment",
+    "year": 1966,
+    "description": "Changed the definition of 'State' in Article 3 to include Union Territories."
+  },
+  {
+    "number": "19th Amendment",
+    "year": 1966,
+    "description": "Removed the provision for election tribunals; High Courts handle election disputes."
+  },
+  {
+    "number": "20th Amendment",
+    "year": 1966,
+    "description": "Validated certain appointments of High Court judges."
+  },
+  {
+    "number": "21st Amendment",
+    "year": 1967,
+    "description": "Added Sindhi to the Eighth Schedule (languages)."
+  },
+  {
+    "number": "22nd Amendment",
+    "year": 1969,
+    "description": "Made special provisions for autonomous areas in Assam."
+  },
+  {
+    "number": "23rd Amendment",
+    "year": 1969,
+    "description": "Provided reservation for SC/ST in Nagaland Assembly; ended reservation for Anglo-Indians in certain states."
+  },
+  {
+    "number": "24th Amendment",
+    "year": 1971,
+    "description": "Gave Parliament full power to amend the Constitution, even fundamental-rights."
+  },
+  {
+    "number": "25th Amendment",
+    "year": 1971,
+    "description": "Limited the right to property and gave precedence to Directive Principles over fundamental-rights."
+  },
+  {
+    "number": "26th Amendment",
+    "year": 1971,
+    "description": "Abolished privy purses and royal privileges of former rulers."
+  },
+  {
+    "number": "27th Amendment",
+    "year": 1971,
+    "description": "Created UT of Mizoram and reorganized North-Eastern states."
+  },
+  {
+    "number": "28th Amendment",
+    "year": 1972,
+    "description": "Repealed special privileges of ICS and abolished their service."
+  },
+  {
+    "number": "29th Amendment",
+    "year": 1972,
+    "description": "Added two Kerala land reform acts to the Ninth Schedule."
+  },
+  {
+    "number": "30th Amendment",
+    "year": 1972,
+    "description": "Changed the original jurisdiction of the Supreme Court in certain treaties."
+  },
+  {
+    "number": "31st Amendment",
+    "year": 1973,
+    "description": "Increased Lok Sabha seats from 525 to 545."
+  },
+  {
+    "number": "32nd Amendment",
+    "year": 1974,
+    "description": "Protected political rights of tribal groups in Tamil Nadu."
+  },
+  {
+    "number": "33rd Amendment",
+    "year": 1974,
+    "description": "Regulated resignation and removal of MPs and MLAs."
+  },
+  {
+    "number": "34th Amendment",
+    "year": 1974,
+    "description": "Added more land reform acts to the Ninth Schedule."
+  },
+  {
+    "number": "35th Amendment",
+    "year": 1974,
+    "description": "Made Sikkim an Associate State of India."
+  },
+  {
+    "number": "36th Amendment",
+    "year": 1975,
+    "description": "Made Sikkim a full state of India."
+  },
+  {
+    "number": "37th Amendment",
+    "year": 1975,
+    "description": "Created a Legislative Assembly for Arunachal Pradesh."
+  },
+  {
+    "number": "38th Amendment",
+    "year": 1975,
+    "description": "Made emergency proclamations non-justiciable."
+  },
+  {
+    "number": "39th Amendment",
+    "year": 1975,
+    "description": "Placed the election of PM and President beyond judicial review."
+  },
+  {
+    "number": "40th Amendment",
+    "year": 1976,
+    "description": "Added more acts to the Ninth Schedule and strengthened Centre's powers over resources."
+  },
+  {
+    "number": "41st Amendment",
+    "year": 1976,
+    "description": "Increased retirement age of public service commissions’ chairpersons."
+  },
+  {
+    "number": "42nd Amendment",
+    "year": 1976,
+    "description": "‘Mini Constitution’: Added 'Socialist', 'Secular', 'Integrity'; strengthened Centre; curbed judicial review."
+  },
+  {
+    "number": "43rd Amendment",
+    "year": 1977,
+    "description": "Restored judicial review removed by the 42nd Amendment."
+  },
+  {
+    "number": "44th Amendment",
+    "year": 1978,
+    "description": "Restored democratic rights after Emergency; limited President’s power to declare Emergency."
+  },
+  {
+    "number": "45th Amendment",
+    "year": 1980,
+    "description": "Extended SC/ST reservations for another 10 years."
+  },
+  {
+    "number": "46th Amendment",
+    "year": 1982,
+    "description": "Changed taxation of goods and services; allowed tax on advertisements."
+  },
+  {
+    "number": "47th Amendment",
+    "year": 1984,
+    "description": "Added more land reforms to the Ninth Schedule."
+  },
+  {
+    "number": "48th Amendment",
+    "year": 1984,
+    "description": "Extended President’s Rule in Punjab beyond one year."
+  },
+  {
+    "number": "49th Amendment",
+    "year": 1984,
+    "description": "Gave constitutional protection to Tripura Tribal Areas Autonomous Council."
+  },
+  {
+    "number": "50th Amendment",
+    "year": 1984,
+    "description": "Strengthened laws related to anti-national activities of armed forces."
+  },
+  {
+    "number": "51st Amendment",
+    "year": 1984,
+    "description": "Reserved seats for STs in Nagaland, Meghalaya, Mizoram, and Arunachal Pradesh."
+  },
+  {
+    "number": "52nd Amendment",
+    "year": 1985,
+    "description": "Introduced the Anti-Defection Law."
+  },
+  {
+    "number": "53rd Amendment",
+    "year": 1986,
+    "description": "Provided special provisions for Mizoram."
+  },
+  {
+    "number": "54th Amendment",
+    "year": 1986,
+    "description": "Increased salaries of the President and Governors."
+  },
+  {
+    "number": "55th Amendment",
+    "year": 1986,
+    "description": "Special provisions for Arunachal Pradesh."
+  },
+  {
+    "number": "56th Amendment",
+    "year": 1987,
+    "description": "Special provisions for Goa and Daman & Diu."
+  },
+  {
+    "number": "57th Amendment",
+    "year": 1987,
+    "description": "Allowed ST reservations in Assam, Meghalaya, Mizoram, Nagaland."
+  },
+  {
+    "number": "58th Amendment",
+    "year": 1987,
+    "description": "Authorized official Hindi translation of the Constitution."
+  },
+  {
+    "number": "59th Amendment",
+    "year": 1988,
+    "description": "Allowed Emergency in Punjab; restricted certain fundamental-rights."
+  },
+  {
+    "number": "60th Amendment",
+    "year": 1988,
+    "description": "Increased taxes on professions and employment."
+  },
+  {
+    "number": "61st Amendment",
+    "year": 1989,
+    "description": "Lowered voting age from 21 to 18."
+  },
+  {
+    "number": "62nd Amendment",
+    "year": 1989,
+    "description": "Extended SC/ST reservation for another 10 years."
+  },
+  {
+    "number": "63rd Amendment",
+    "year": 1989,
+    "description": "Repealed 59th Amendment; restored fundamental-rights in Punjab."
+  },
+  {
+    "number": "64th Amendment",
+    "year": 1990,
+    "description": "Extended President's Rule in Punjab again."
+  },
+  {
+    "number": "65th Amendment",
+    "year": 1990,
+    "description": "Established National Commission for SCs and STs."
+  },
+  {
+    "number": "66th Amendment",
+    "year": 1990,
+    "description": "Added more land reform acts to the Ninth Schedule."
+  },
+  {
+    "number": "67th Amendment",
+    "year": 1990,
+    "description": "Extended President’s rule in Punjab."
+  },
+  {
+    "number": "68th Amendment",
+    "year": 1991,
+    "description": "Extended President’s rule in Punjab again."
+  },
+  {
+    "number": "69th Amendment",
+    "year": 1991,
+    "description": "Made Delhi the National Capital Territory with an Assembly."
+  },
+  {
+    "number": "70th Amendment",
+    "year": 1992,
+    "description": "Gave Delhi and Puducherry representation in the Presidential election."
+  },
+  {
+    "number": "71st Amendment",
+    "year": 1992,
+    "description": "Added Konkani, Manipuri, and Nepali to the Eighth Schedule."
+  },
+  {
+    "number": "72nd Amendment",
+    "year": 1992,
+    "description": "Reserved seats for STs in Tripura Assembly."
+  },
+  {
+    "number": "73rd Amendment",
+    "year": 1992,
+    "description": "Created Panchayati Raj system; 3-tier local bodies with reservations."
+  },
+  {
+    "number": "74th Amendment",
+    "year": 1992,
+    "description": "Strengthened urban local bodies; municipal governance reforms."
+  },
+  {
+    "number": "75th Amendment",
+    "year": 1994,
+    "description": "Allowed tribunals to handle rent matters."
+  },
+  {
+    "number": "76th Amendment",
+    "year": 1994,
+    "description": "Reserved 69% seats for backward classes in Tamil Nadu."
+  },
+  {
+    "number": "77th Amendment",
+    "year": 1995,
+    "description": "Gave SC/ST reservation in promotions in government jobs."
+  },
+  {
+    "number": "78th Amendment",
+    "year": 1995,
+    "description": "Added more Tamil Nadu land reform acts to the Ninth Schedule."
+  },
+  {
+    "number": "79th Amendment",
+    "year": 1999,
+    "description": "Extended SC/ST reservation for 10 more years."
+  },
+  {
+    "number": "80th Amendment",
+    "year": 2000,
+    "description": "Implemented alternative scheme for sharing Union taxes with states."
+  },
+  {
+    "number": "81st Amendment",
+    "year": 2000,
+    "description": "Allowed carrying forward of unfilled SC/ST vacancies."
+  },
+  {
+    "number": "82nd Amendment",
+    "year": 2000,
+    "description": "Permitted relaxation for SC/ST in promotion examinations."
+  },
+  {
+    "number": "83rd Amendment",
+    "year": 2000,
+    "description": "Exempted Arunachal Pradesh from reserving SC seats due to low population."
+  },
+  {
+    "number": "84th Amendment",
+    "year": 2001,
+    "description": "Frozen delimitation of constituencies until 2026."
+  },
+  {
+    "number": "85th Amendment",
+    "year": 2001,
+    "description": "Gave 'consequential seniority' to SC/ST in promotions."
+  },
+  {
+    "number": "86th Amendment",
+    "year": 2002,
+    "description": "Made free and compulsory education (6–14 years) a Fundamental Right."
+  },
+  {
+    "number": "87th Amendment",
+    "year": 2003,
+    "description": "Delimitation based on 2001 census data."
+  },
+  {
+    "number": "88th Amendment",
+    "year": 2003,
+    "description": "Allowed Centre to levy service tax."
+  },
+  {
+    "number": "89th Amendment",
+    "year": 2003,
+    "description": "Created separate National Commissions for SC and ST."
+  },
+  {
+    "number": "90th Amendment",
+    "year": 2003,
+    "description": "Special reservation for Scheduled Tribes in Assam’s Bodoland region."
+  },
+  {
+    "number": "91st Amendment",
+    "year": 2003,
+    "description": "Limited number of ministers; strengthened Anti-Defection Law."
+  },
+  {
+    "number": "92nd Amendment",
+    "year": 2003,
+    "description": "Added Bodo, Santhali, Maithili, and Dogri to Eighth Schedule."
+  },
+  {
+    "number": "93rd Amendment",
+    "year": 2005,
+    "description": "Allowed reservation for OBCs in private educational institutions."
+  },
+  {
+    "number": "94th Amendment",
+    "year": 2006,
+    "description": "Removed Bihar from reserved seats for Anglo-Indians."
+  },
+  {
+    "number": "95th Amendment",
+    "year": 2009,
+    "description": "Extended SC/ST reservation in Lok Sabha and Assemblies for 10 more years."
+  },
+  {
+    "number": "96th Amendment",
+    "year": 2011,
+    "description": "Changed the spelling of 'Oriya' language to 'Odia'."
+  },
+  {
+    "number": "97th Amendment",
+    "year": 2011,
+    "description": "Encouraged formation of cooperative societies; made cooperatives a Fundamental Right."
+  },
+  {
+    "number": "98th Amendment",
+    "year": 2012,
+    "description": "Created special judicial system for Maharashtra (Mumbai)."
+  },
+  {
+    "number": "99th Amendment",
+    "year": 2014,
+    "description": "Created NJAC to replace the collegium; later struck down by Supreme Court."
+  },
+  {
+    "number": "100th Amendment",
+    "year": 2015,
+    "description": "Land boundary agreement between India and Bangladesh."
+  },
+  {
+    "number": "101st Amendment",
+    "year": 2016,
+    "description": "Introduced the Goods and Services Tax (GST) in India."
+  },
+  {
+    "number": "102nd Amendment",
+    "year": 2018,
+    "description": "Created National Commission for Backward Classes (NCBC) as a constitutional body."
+  },
+  {
+    "number": "103rd Amendment",
+    "year": 2019,
+    "description": "Introduced 10% EWS reservation in education and jobs."
+  },
+  {
+    "number": "104th Amendment",
+    "year": 2020,
+    "description": "Extended SC/ST reservation in Lok Sabha and Assemblies; ended Anglo-Indian nomination."
+  },
+  {
+    "number": "105th Amendment",
+    "year": 2021,
+    "description": "Restored states' power to identify OBCs."
+  }
+]
